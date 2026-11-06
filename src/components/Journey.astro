@@ -1,0 +1,54 @@
+---
+import { useTranslations } from '../i18n';
+import { href } from '../utils';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const steps: { title: string; text: string }[] = t('journey.steps');
+const caps: { title: string; text: string; alt: string }[] = t('journey.captures');
+const capImgs = [
+  { cap: 0, src: 'screens/medialab/01-altyazi-buzlu.png', w: 3408, h: 2078 },
+  { cap: 2, src: 'screens/scraper/01-yakalama.png', w: 1361, h: 924 },
+];
+---
+<section class="journey" id="yolculuk">
+  <div class="head"><h2>{t('journey.title')}</h2><p>{t('journey.lead')}</p></div>
+  <div class="flow">
+    <svg class="river" viewBox="0 0 100 1000" preserveAspectRatio="none" aria-hidden="true"><path d="M50 0C60 70 58 110 50 170S28 270 45 340 78 450 58 540 16 640 42 730 92 840 60 910 40 970 50 1000"/></svg>
+    <div class="glow" aria-hidden="true"></div>
+    <ol class="steps">
+      <li class="wide">
+        <div class="txt"><small></small><h3>{steps[0].title}</h3><p>{steps[0].text}</p></div>
+        <div class="caps">
+          {capImgs.map((img) => (
+            <div class="cap">
+              <img src={href(img.src)} width={img.w} height={img.h} loading="lazy" decoding="async" alt={caps[img.cap].alt} />
+              <b>{caps[img.cap].title}</b><span>{caps[img.cap].text}</span>
+            </div>
+          ))}
+        </div>
+      </li>
+      <li>
+        <div class="txt"><small></small><h3>{steps[1].title}</h3><p>{steps[1].text}</p></div>
+        <div class="pic"><img src={href('screens/medialab/02-kelime-penceresi-buzlu.png')} width="3408" height="2078" loading="lazy" decoding="async" alt={t('journey.alts.understand')} /></div>
+      </li>
+      <li>
+        <div class="txt"><small></small><h3>{steps[2].title}</h3><p>{steps[2].text}</p></div>
+        <div class="pic"><img src={href('screens/sync/02-akis.png')} width="2826" height="1684" loading="lazy" decoding="async" alt={t('journey.alts.collect')} /></div>
+      </li>
+      <li>
+        <div class="txt"><small></small><h3>{steps[3].title}</h3><p>{steps[3].text}</p></div>
+        <div class="pic phone"><img src={href('screens/flow/02-kelime-detay.png')} width="1028" height="2048" loading="lazy" decoding="async" alt={t('journey.alts.repeat')} /></div>
+      </li>
+      <li>
+        <div class="txt"><small></small><h3>{steps[4].title}</h3><p>{steps[4].text}</p></div>
+        <div class="pair">
+          <div class="pic"><img src={href('screens/medialab/07-flashcard-overview.png')} width="3408" height="2078" loading="lazy" decoding="async" alt={t('journey.alts.seeOverview')} /></div>
+          <div class="pic phone"><img src={href('screens/flow/01-pano.jpeg')} width="1034" height="2048" loading="lazy" decoding="async" alt={t('journey.alts.seePhone')} /></div>
+        </div>
+      </li>
+    </ol>
+  </div>
+</section>
+<script>
+  import '../scripts/flow.ts';
+</script>

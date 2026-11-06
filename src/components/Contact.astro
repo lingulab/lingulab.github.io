@@ -1,0 +1,15 @@
+---
+import { useTranslations } from '../i18n';
+import { contactEmail } from '../site.config';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+<section class="section" id="iletisim">
+  <div class="split">
+    <h2>{t('contact.title')}</h2>
+    <div class="prose">
+      <p>{t('contact.text')}</p>
+      {contactEmail && <a class="mail" href={`mailto:${contactEmail}`}>{contactEmail}</a>}
+    </div>
+  </div>
+</section>

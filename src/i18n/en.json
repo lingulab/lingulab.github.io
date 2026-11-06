@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "LinguLab, build yourself in another language",
+    "description": "LinguLab is a language lab for people who want to acquire a language through years of real effort. What you watch, read, hear and meet on screen becomes study material."
+  },
+  "nav": {
+    "label": "Main navigation",
+    "system": "System",
+    "science": "Science",
+    "apps": "Apps",
+    "roadmap": "Roadmap",
+    "language": "Choose a language"
+  },
+  "hero": {
+    "titleBefore": "Build yourself in",
+    "titleEm": "another language.",
+    "lead": "LinguLab is a language lab for people who want to acquire a language through years of real effort. What you watch, read, hear and meet on screen becomes study material."
+  },
+  "diagram": {
+    "aria": "System diagram: series, films, podcasts, books, web pages, documents and phone screenshots enter LinguMediaLab, LinguBookLab and LinguScraper, come together in LinguSync, and reach LinguFlow, Obsidian notes and email reports.",
+    "m1a": "Series, films,",
+    "m1b": "documentaries, podcasts",
+    "m2": "Books",
+    "m3a": "Web, docs, WhatsApp,",
+    "m3b": "translation and AI",
+    "m3c": "screenshots",
+    "mediaLab": "LinguMediaLab",
+    "bookLab": "LinguBookLab",
+    "scraper": "LinguScraper",
+    "scraperSub": "desktop and phone",
+    "sync": "LinguSync",
+    "syncSub": "everything comes together",
+    "flow": "LinguFlow",
+    "flowSub": "cards and reports on phone",
+    "obsidian": "Obsidian notes",
+    "reports": "Reports",
+    "reportsSub": "by email"
+  },
+  "problem": {
+    "title": "Learning a language is not a three-week streak.",
+    "paragraphs": [
+      "It doesn't end when you pass an exam or finish a course. It takes years of keeping going, and some days it feels endless. That is why so many people give up along the way: they never find the right system, or they find it and can't keep it up.",
+      "Most apps tie you to their content, their level and their pace. The same sentences, topics that have nothing to do with you. It starts to feel like a second job next to your life. And it can keep you away from the culture and the real world of the language you are trying to learn.",
+      "Then there are the dozens of words and phrases you run into in books, series and online. Writing them down and going back to them takes a lot of effort. In the rush of a normal day, most of them are simply lost."
+    ]
+  },
+  "solution": {
+    "title": "Learning a language is not a straight line. It moves in cycles.",
+    "intro": [
+      "Each ring is a cycle. Each cycle starts at the same point: first you understand, then you produce. As you produce, you notice more, and the next cycle gets wider.",
+      "As the rings grow, you understand more and you produce more. And with each cycle, production takes up a little more of the ring."
+    ],
+    "ringsAria": "Four nested rings. Each ring starts at the same point. Moving outward the rings grow, understanding and production both increase, and the share of production widens.",
+    "cycles": [
+      "Cycle 1",
+      "Cycle 2",
+      "Cycle 3",
+      "Cycle 4"
+    ],
+    "legendIn": "Understanding",
+    "legendOut": "Production",
+    "caption": "A conceptual diagram, not measured data. Proportions and cycle length differ from person to person.",
+    "content": "Content you care about in your target language feeds this cycle. Reading a book you already know from your own language, or following a series in its original language, gives you a story to hold on to while you work out the language.",
+    "collecting": "The phrases, words and sentences you meet along the way are collected from every source into one place. You come back to them at set intervals and recall them. The aim is that the next time you meet a similar sentence, you understand it better."
+  },
+  "audience": {
+    "title": "Not for people who expect to learn a language from the sofa.",
+    "paragraphs": [
+      "LinguLab was made for people who really want to learn and are ready to put in the work.",
+      "We don't believe in projects that sell easy or fast methods. Those claims are very hard to measure and they vary from person to person. Our starting point is simplicity. We are trying to build a toolkit that is flexible and sustainable, offers wide possibilities, and makes language acquisition possible within the flow of life.",
+      "Maybe you haven't found the right method yet. Maybe you have started and stopped a few times. That is completely normal. If you accept how long the road is and you are ready to build your own system, you can carry on from here."
+    ]
+  },
+  "journey": {
+    "title": "The journey of a phrase",
+    "lead": "You meet a phrase once. The system doesn't let it go.",
+    "steps": [
+      {
+        "title": "Capture",
+        "text": "Wherever you meet a new phrase, you save it in one move."
+      },
+      {
+        "title": "Understand",
+        "text": "You work with it in its sentence, with its sound and context. That is what LinguMediaLab, LinguBookLab and LinguScraper are for."
+      },
+      {
+        "title": "Collect",
+        "text": "Wherever it came from, it ends up in one place in LinguSync, which helps you see the bigger picture."
+      },
+      {
+        "title": "Repeat",
+        "text": "You review with spaced repetition: in one place with LinguFlow on phone or web, or with the cards inside each app."
+      },
+      {
+        "title": "See",
+        "text": "You see what you have collected and what has stuck in the apps, on your phone and in regular email reports."
+      }
+    ],
+    "captures": [
+      {
+        "title": "In a video",
+        "text": "Click the word in the subtitles.",
+        "alt": "Video study screen with subtitles, showing the card that opens when a word is clicked"
+      },
+      {
+        "title": "In a book",
+        "text": "Tap the word, add it to your cards.",
+        "alt": "Book reader with the dictionary that opens when a word is tapped"
+      },
+      {
+        "title": "On your computer",
+        "text": "Select, press the shortcut, save.",
+        "alt": "Selected phrase on a web page and the LinguScraper capture window"
+      },
+      {
+        "title": "On your phone",
+        "text": "Take a screenshot of WhatsApp, a translation or an AI chat.",
+        "alt": ""
+      }
+    ],
+    "phonePlaceholder": "Phone screen coming",
+    "alts": {
+      "understand": "LinguMediaLab word window with the meaning and sentence of the selected word",
+      "collect": "LinguSync data flow screen with phrases from different apps in one flow",
+      "repeat": "Word detail screen in the LinguFlow phone app",
+      "seeOverview": "LinguMediaLab flashcard overview screen",
+      "seePhone": "Home screen of the LinguFlow phone app"
+    }
+  },
+  "material": {
+    "title": "Anything can be study material.",
+    "text": "Series, films, documentaries, podcasts, books. Your work documents, your chats, an article you read online. You work with whatever interests you in your target language. You don't have to start with children's books. Your interests are already your curriculum.",
+    "note": "When you capture chats and screenshots, the content is sent to the AI service you choose. You decide what you capture.",
+    "startTitle": "Everyone starts from a different place.",
+    "startText": "Your native language, your life, your goal and your interests shape your road. How a person perceives a new language is still a complex, debated field in science. What is in your hands is determination and consistency. LinguLab wants to be the lab where you find your own way by trying."
+  },
+  "science": {
+    "title": "We built it by looking at the evidence.",
+    "intro": "LinguLab is built on principles from research on language acquisition and memory. That research studies methods. The effect of LinguLab itself has not been measured yet.",
+    "inSystem": "In the system:",
+    "source": "Source:",
+    "newTab": "opens in a new tab",
+    "items": [
+      {
+        "title": "Comprehensible input",
+        "text": "The density of unknown words in a text affects how much you understand. Krashen's input hypothesis is debated, but listening and reading for meaning are still seen as the foundation. In one study, watching a single full-length TV programme was enough to lead to word learning.",
+        "system": "Subtitle study, graded comprehension passes, one-tap dictionary in books.",
+        "sources": [
+          {
+            "label": "Hu and Nation 2000",
+            "url": "https://doi.org/10.64152/10125/66973"
+          },
+          {
+            "label": "Krashen 1985",
+            "url": "https://cir.nii.ac.jp/crid/1130282270300036096?lang=en"
+          },
+          {
+            "label": "Peters and Webb 2018",
+            "url": "https://doi.org/10.1017/s0272263117000407"
+          }
+        ]
+      },
+      {
+        "title": "Output and interaction",
+        "text": "Understanding alone is not enough. Trying to produce the language yourself and using it with others also supports development.",
+        "system": "Recording and comparing your own voice, playing a role in dialogues.",
+        "sources": [
+          {
+            "label": "Swain 1985",
+            "url": ""
+          },
+          {
+            "label": "Long 1996",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Shadowing",
+        "text": "Studies on repeating what you hear as you hear it are promising, but results vary by person and level. In a study with 43 students in Japan, sound perception improved at both levels, while only the lower-level group improved on high-school listening questions. In a four-week training study, groups that included speaking got faster on a working memory task.",
+        "system": "Sentence by sentence shadowing, full clip recording.",
+        "sources": [
+          {
+            "label": "Hamada 2016",
+            "url": "https://doi.org/10.1177/1362168815597504"
+          },
+          {
+            "label": "Takeuchi et al. 2021",
+            "url": "https://doi.org/10.1007/s11682-020-00324-4"
+          }
+        ]
+      },
+      {
+        "title": "Trying to recall",
+        "text": "Retrieving something from memory, instead of rereading it, helps you hold on to it for longer.",
+        "system": "Flashcard reviews.",
+        "sources": [
+          {
+            "label": "Roediger and Karpicke 2006",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+          },
+          {
+            "label": "Karpicke and Roediger 2008",
+            "url": "https://doi.org/10.1126/science.1152408"
+          }
+        ]
+      },
+      {
+        "title": "Spacing practice out",
+        "text": "Spreading the same practice over time, instead of doing it in one sitting, strengthens verbal recall.",
+        "system": "Leitner in LinguMediaLab and LinguFlow, FSRS in LinguBookLab.",
+        "sources": [
+          {
+            "label": "Cepeda et al. 2006",
+            "url": "https://doi.org/10.1037/0033-2909.132.3.354"
+          }
+        ]
+      },
+      {
+        "title": "Attention to form",
+        "text": "Exposure alone is often not enough. Paying attention to the structure of the language and getting feedback also helps.",
+        "system": "Sentence and grammar analysis, comparing your recording with the original.",
+        "sources": [
+          {
+            "label": "Lightbown and Spada 2021",
+            "url": ""
+          },
+          {
+            "label": "Lyster and Ranta 1997",
+            "url": "https://doi.org/10.1017/S0272263197001034"
+          }
+        ]
+      },
+      {
+        "title": "Enjoyment",
+        "text": "In a large study of foreign language learners, enjoyment came out clearly higher than anxiety. Many participants described their best moment as the one when they realised their long effort had paid off. It was a classroom study, but we think it matters: working with content you care about, at your own pace, may be one way to reach those moments more often.",
+        "system": "Material you choose yourself, personal progress reports.",
+        "sources": [
+          {
+            "label": "Dewaele and MacIntyre 2014",
+            "url": "https://doi.org/10.14746/ssllt.2014.4.2.5"
+          }
+        ]
+      }
+    ],
+    "netNote": "The lines are visual only and do not show a scientific relationship."
+  },
+  "apps": {
+    "title": "One system, five pieces.",
+    "statusLabel": "Status:",
+    "notice": "This page is under construction.",
+    "close": "Close",
+    "items": [
+      {
+        "name": "LinguMediaLab",
+        "text": "Turns video and audio into subtitled study material. Shadowing, role-play and word cards live here.",
+        "status": "Works on macOS. Windows in progress."
+      },
+      {
+        "name": "LinguBookLab",
+        "text": "EPUB and PDF reader. Offline dictionary, AI explanations, read-aloud and word cards.",
+        "status": "macOS and Windows. Not released yet."
+      },
+      {
+        "name": "LinguScraper",
+        "text": "Turns text you select on your computer into a note and a word with one shortcut. It also handles phone screenshots.",
+        "status": "In daily use on macOS. Windows in progress."
+      },
+      {
+        "name": "LinguSync",
+        "text": "Collects words and notes from all the apps in one place, and produces Obsidian notes and regular reports.",
+        "status": "Runs in the founder's own setup. Not public."
+      },
+      {
+        "name": "LinguFlow",
+        "text": "Everything you collected, on your phone. Review cards, word lists, report history.",
+        "status": "Runs in the founder's own setup. Not public."
+      }
+    ]
+  },
+  "roadmap": {
+    "title": "Where we are, where we are going.",
+    "status": {
+      "now": "Today",
+      "next": "Next",
+      "later": "Later"
+    },
+    "closing": "We are still exploring what comes after that."
+  },
+  "founder": {
+    "title": "Why I built it",
+    "paragraphs": [
+      "I suddenly moved to a new country. I had no idea about Dutch. Around me, dozens of people were studying Dutch in a hurry, and everyone was taking advice from everyone else.",
+      "I started with different questions: What does it mean to learn a language? How does it happen in the brain? What affects it? How did people who learned languages very different from their own manage it? As I read and watched the people around me and myself, I developed my own methods, and I saw this: it is a road of many years at the very least, with no measurable finish line.",
+      "I didn't want to read children's books or watch cartoons. I wanted to build my own self in another language. The topics I love and the work I do in my own language had to be built in that language too. That way I could learn the language, new things and the culture of the society all at once.",
+      "Instead of trying to do this quickly and stressing myself out, I decided to build a system once I had learned the structure of the language to a certain level. My aim was to turn what I learned into reflexes over the long term, in a way that was effective and sustainable. When I couldn't find an app to help me, I made it myself. I use it today, and I hope it helps others who share the same aim."
+    ]
+  },
+  "contact": {
+    "title": "If you have a thought, I'd like to hear it.",
+    "text": "LinguLab is not public yet. If you have a comment, a suggestion or something to contribute, you can write to me."
+  }
+}

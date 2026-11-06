@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import Header from '../../components/Header.astro';
+import Hero from '../../components/Hero.astro';
+import Problem from '../../components/Problem.astro';
+import Solution from '../../components/Solution.astro';
+import Audience from '../../components/Audience.astro';
+import Journey from '../../components/Journey.astro';
+import Material from '../../components/Material.astro';
+import Science from '../../components/Science.astro';
+import Apps from '../../components/Apps.astro';
+import Roadmap from '../../components/Roadmap.astro';
+import Founder from '../../components/Founder.astro';
+import Contact from '../../components/Contact.astro';
+import Footer from '../../components/Footer.astro';
+import { locales } from '../../i18n';
+
+export function getStaticPaths() {
+  return locales.map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params;
+---
+<Base lang={lang}>
+  <Header lang={lang} />
+  <main class="wrap">
+    <Hero lang={lang} />
+    <Problem lang={lang} />
+    <Solution lang={lang} />
+    <Audience lang={lang} />
+    <Journey lang={lang} />
+    <Material lang={lang} />
+    <Science lang={lang} />
+    <Apps lang={lang} />
+    <Roadmap lang={lang} />
+    <Founder lang={lang} />
+    <Contact lang={lang} />
+  </main>
+  <Footer lang={lang} />
+</Base>

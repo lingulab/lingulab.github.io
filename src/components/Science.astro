@@ -1,0 +1,43 @@
+---
+import { useTranslations } from '../i18n';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const items: { title: string; text: string; system: string; sources: { label: string; url: string }[] }[] = t('science.items');
+const pos = [[20, 12], [80, 13], [49, 29], [20, 56], [23, 89], [81, 58], [52, 67]];
+---
+<section class="section" id="bilim">
+  <div class="split">
+    <h2>{t('science.title')}</h2>
+    <div class="prose"><p>{t('science.intro')}</p></div>
+  </div>
+  <div class="lab" data-lab>
+    <div class="net">
+      <svg viewBox="0 0 620 560" aria-hidden="true">
+        <defs><radialGradient id="net-light"><stop offset="0" stop-color="#f4f8b0"/><stop offset=".3" stop-color="#c8d32f" stop-opacity=".75"/><stop offset="1" stop-color="#c8d32f" stop-opacity="0"/></radialGradient></defs>
+        <g class="net-lines"><path d="M105 67Q220 83 304 162"/><path d="M304 162Q414 148 496 73"/><path d="M105 67Q145 190 105 314"/><path d="M105 314Q94 412 143 498"/><path d="M496 73Q539 198 502 325"/><path d="M304 162Q279 272 322 375"/><path d="M105 314Q224 310 322 375"/><path d="M502 325Q404 321 322 375"/><path d="M143 498Q213 408 322 375"/></g>
+        <g class="net-lights"><circle r="11" fill="url(#net-light)"><animateMotion dur="5s" begin="0s" repeatCount="indefinite" path="M105 67Q220 83 304 162"/></circle><circle r="11" fill="url(#net-light)"><animateMotion dur="6s" begin="1.5s" repeatCount="indefinite" path="M304 162Q414 148 496 73"/></circle><circle r="11" fill="url(#net-light)"><animateMotion dur="5.5s" begin="0.8s" repeatCount="indefinite" path="M304 162Q279 272 322 375"/></circle><circle r="11" fill="url(#net-light)"><animateMotion dur="6.5s" begin="2.4s" repeatCount="indefinite" path="M502 325Q404 321 322 375"/></circle><circle r="11" fill="url(#net-light)"><animateMotion dur="7s" begin="3.1s" repeatCount="indefinite" path="M105 314Q94 412 143 498"/></circle><circle r="11" fill="url(#net-light)"><animateMotion dur="6s" begin="4s" repeatCount="indefinite" path="M143 498Q213 408 322 375"/></circle></g>
+      </svg>
+      {items.map((item, i) => (
+        <button type="button" class="neuron" data-node={i} aria-pressed={i === 0 ? 'true' : 'false'} style={`left:${pos[i][0]}%;top:${pos[i][1]}%`}>{item.title}</button>
+      ))}
+      <p class="net-note">{t('science.netNote')}</p>
+    </div>
+    <div class="details" aria-live="polite">
+      {items.map((item, i) => (
+        <article class="detail" data-detail={i}>
+          <h3>{item.title}</h3>
+          <p>{item.text}</p>
+          <p class="sys"><b>{t('science.inSystem')}</b> {item.system}</p>
+          <p class="src"><b>{t('science.source')}</b> {item.sources.map((src, n) => (
+            <>{n > 0 && ', '}{src.url
+              ? <a href={src.url} target="_blank" rel="noopener noreferrer">{src.label}<span class="sr"> ({t('science.newTab')})</span></a>
+              : src.label}</>
+          ))}</p>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>
+<script>
+  import '../scripts/lab.ts';
+</script>

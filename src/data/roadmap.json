@@ -1,0 +1,42 @@
+[
+  {
+    "id": "macos-first-release",
+    "title": {
+      "tr": "macOS'ta ilk çalışan sürüm. Kişisel kullanımda ve kullandıkça her gün gelişiyor.",
+      "en": "First working version on macOS. In personal use, and it improves every day as it gets used.",
+      "nl": "Eerste werkende versie op macOS. In persoonlijk gebruik, en ze wordt elke dag beter door het gebruik."
+    },
+    "status": "now",
+    "order": 1
+  },
+  {
+    "id": "windows-and-testing",
+    "title": {
+      "tr": "Windows sürümünün tamamlanması, ardından 10 farklı kişiyle test ve iyileştirmeler.",
+      "en": "Finishing the Windows version, then testing and improvements with 10 different people.",
+      "nl": "De Windows-versie afmaken, daarna testen en verbeteren met 10 verschillende mensen."
+    },
+    "status": "next",
+    "order": 2
+  },
+  {
+    "id": "language-priorities",
+    "title": {
+      "tr": "Dil öncelikleri: Türkçe, Hollandaca ve İngilizce çiftleri.",
+      "en": "Language priorities: Turkish, Dutch and English pairs.",
+      "nl": "Taalprioriteiten: combinaties van Turks, Nederlands en Engels."
+    },
+    "status": "next",
+    "order": 3
+  },
+  {
+    "id": "more-languages",
+    "title": {
+      "tr": "Arapça, Ukraynaca, İspanyolca, İtalyanca, Almanca, Fransızca ve diğer Avrupa dilleri.",
+      "en": "Arabic, Ukrainian, Spanish, Italian, German, French and other European languages.",
+      "nl": "Arabisch, Oekraïens, Spaans, Italiaans, Duits, Frans en andere Europese talen."
+    },
+    "status": "later",
+    "order": 4
+  }
+]

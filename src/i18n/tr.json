@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "LinguLab, kendini başka bir dilin içinde inşa et",
+    "description": "LinguLab, bir dili yıllara yayılan bir çabayla edinmek isteyenler için kurulmuş bir dil laboratuvarı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey çalışma malzemesine dönüşür."
+  },
+  "nav": {
+    "label": "Ana gezinme",
+    "system": "Sistem",
+    "science": "Bilim",
+    "apps": "Uygulamalar",
+    "roadmap": "Yol haritası",
+    "language": "Dil seç"
+  },
+  "hero": {
+    "titleBefore": "Kendini başka bir dilin içinde",
+    "titleEm": "inşa et.",
+    "lead": "LinguLab, bir dili yıllara yayılan bir çabayla edinmek isteyenler için kurulmuş bir dil laboratuvarı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey çalışma malzemesine dönüşür."
+  },
+  "diagram": {
+    "aria": "Sistem şeması: Dizi, film, podcast, kitap, web sayfaları, belgeler ve telefon ekran görüntüleri LinguMediaLab, LinguBookLab ve LinguScraper'a girer, LinguSync'te birleşir, LinguFlow, Obsidian notları ve e-posta raporlarına ulaşır.",
+    "m1a": "Dizi, film,",
+    "m1b": "belgesel, podcast",
+    "m2": "Kitap",
+    "m3a": "Web, belge, WhatsApp,",
+    "m3b": "çeviri ve yapay zekâ",
+    "m3c": "ekran görüntüleri",
+    "mediaLab": "LinguMediaLab",
+    "bookLab": "LinguBookLab",
+    "scraper": "LinguScraper",
+    "scraperSub": "masaüstü ve telefon",
+    "sync": "LinguSync",
+    "syncSub": "her şey tek yerde birleşir",
+    "flow": "LinguFlow",
+    "flowSub": "telefonda kartlar, rapor",
+    "obsidian": "Obsidian notları",
+    "reports": "Raporlar",
+    "reportsSub": "e-posta ile"
+  },
+  "problem": {
+    "title": "Dil öğrenmek üç haftalık bir seri değil.",
+    "paragraphs": [
+      "Bir sınavı ya da kursu geçip sertifika alınca bitmiyor. Uzun süre devamlılık isteyen bir süreç bu, ve bazen insana sonsuz gibi geliyor. Pek çok insan bu yüzden yolda pes ediyor: Doğru sistemi kuramıyor, kursa bile sürdüremiyor.",
+      "Çoğu uygulama seni kendi içeriğine, kendi seviyene ve kendi hızına bağlar. Aynı cümleler, seninle ilgisi olmayan konular. Hayatının yanında fazladan bir iş yapıyormuşsun gibi hissedersin. Üstelik seni öğrenmeye çalıştığın dilin kültüründen ve gerçek dünyasından uzak tutabilir.",
+      "Bir de kitap, dizi ya da internette karşılaştığın onlarca kelime ve ifade var. Bunları bir yere yazmak ve dönüp bakmak çok emek ister. Günlük koşturmaca içinde çoğu unutulup gider."
+    ]
+  },
+  "solution": {
+    "title": "Dil öğrenmek düz bir çizgi değil, döngüdür.",
+    "intro": [
+      "Her halka bir döngü. Her döngü aynı noktadan başlar: Önce anlarsın, sonra üretirsin. Ürettikçe daha fazlasını fark edersin ve bir sonraki döngü daha geniş olur.",
+      "Halkalar büyüdükçe anladığın da ürettiğin de artar. Üretimin payı ise her döngüde biraz daha genişler."
+    ],
+    "ringsAria": "İç içe dört halka. Her halka aynı noktadan başlar. Dışa doğru halkalar büyür, anlama ve üretme birlikte artar, üretmenin payı genişler.",
+    "cycles": [
+      "Döngü 1",
+      "Döngü 2",
+      "Döngü 3",
+      "Döngü 4"
+    ],
+    "legendIn": "Anlama",
+    "legendOut": "Üretme",
+    "caption": "Kavramsal şema, ölçülmüş veri değil. Oranlar ve döngü uzunluğu kişiden kişiye değişir.",
+    "content": "Hedef dilde ilgini çeken içerikleri tüketmek bu döngüyü besler. Daha önce kendi dilinde okuduğun bir kitabı hedef dilde okumak ya da izlediğin bir diziyi özgün diliyle takip etmek, zaten bildiğin bir hikâyeye tutunarak dili anlamanı kolaylaştırır.",
+    "collecting": "Bu yolda karşılaştığın ifadeler, kelimeler ve cümleler tüm kaynaklardan tek bir yerde toplanır. Belirli aralıklarla onları tekrar eder, hatırlarsın. Bir sonraki sefer benzer bir cümleyle karşılaştığında onu daha iyi anlaman hedeflenir."
+  },
+  "audience": {
+    "title": "Koltukta hiç çaba harcamadan dil öğrenmeyi bekleyenler için değil.",
+    "paragraphs": [
+      "LinguLab, gerçekten öğrenmek isteyen ve bunun için emek vermeye hazır insanlar için yapıldı.",
+      "Kolay ya da hızlı yöntem pazarlayan projelere inanmıyoruz; bu tür iddiaları ölçmek çok zor ve insandan insana değişiyor. Bizim çıkış noktamız basitlik. Dil edinimini hayatın akışı içinde mümkün kılan, esnek, sürdürülebilir ve geniş olanaklar sunan bir araç takımı kurmaya çalışıyoruz.",
+      "Doğru yöntemi henüz bulamamış olabilirsin. Birkaç kez başlayıp bırakmış da olabilirsin. Bu çok normal. Yolun uzunluğunu kabul ediyorsan ve kendi sistemini kurmaya hazırsan buradan devam edebilirsin."
+    ]
+  },
+  "journey": {
+    "title": "Bir ifadenin yolculuğu",
+    "lead": "Bir ifadeye bir kez rastlarsın. Sistem onu bırakmaz.",
+    "steps": [
+      {
+        "title": "Yakala",
+        "text": "Yeni bir ifadeyle karşılaştığın yerde, tek hareketle kaydedersin."
+      },
+      {
+        "title": "Anla",
+        "text": "Cümlesiyle, sesiyle ve bağlamıyla çalışırsın. LinguMediaLab, LinguBookLab ve LinguScraper bunun için var."
+      },
+      {
+        "title": "Topla",
+        "text": "Nereden gelirse gelsin, ifadelerin LinguSync'te tek bir yerde birleşir ve büyük resmi görmene yardımcı olur."
+      },
+      {
+        "title": "Tekrar et",
+        "text": "Aralıklı tekrarla çalışırsın: Telefonda veya webde LinguFlow ile tek yerden, ya da her uygulamanın içindeki kartlarla."
+      },
+      {
+        "title": "Gör",
+        "text": "Neyi topladığını ve neyin kaldığını uygulamada, telefonda ve düzenli e-posta raporlarında görürsün."
+      }
+    ],
+    "captures": [
+      {
+        "title": "Videoda",
+        "text": "Altyazıdaki kelimeye tıkla.",
+        "alt": "Altyazılı video çalışma ekranında bir kelimeye tıklayınca açılan kart"
+      },
+      {
+        "title": "Kitapta",
+        "text": "Kelimeye dokun, karta ekle.",
+        "alt": "Kitap okuyucuda bir kelimeye dokununca açılan sözlük"
+      },
+      {
+        "title": "Bilgisayarda",
+        "text": "Seç, kısayola bas, kaydet.",
+        "alt": "Web sayfasında seçilen ifade ve LinguScraper yakalama penceresi"
+      },
+      {
+        "title": "Telefonda",
+        "text": "WhatsApp, çeviri ya da yapay zekâ ekranının görüntüsünü al.",
+        "alt": ""
+      }
+    ],
+    "phonePlaceholder": "Telefon ekranı bekleniyor",
+    "alts": {
+      "understand": "LinguMediaLab kelime penceresi: seçilen kelimenin anlamı ve cümlesi",
+      "collect": "LinguSync veri akışı ekranı: farklı uygulamalardan gelen ifadeler tek akışta",
+      "repeat": "LinguFlow telefon uygulamasında bir kelimenin ayrıntı ekranı",
+      "seeOverview": "LinguMediaLab flashcard genel bakış ekranı",
+      "seePhone": "LinguFlow telefon uygulamasının ana ekranı"
+    }
+  },
+  "material": {
+    "title": "Her şey çalışma malzemesi olabilir.",
+    "text": "Dizi, film, belgesel, podcast, kitap. İş belgelerin, sohbetlerin, internette okuduğun bir yazı. Hedef dilde ilgini çeken ne varsa onunla çalışırsın. Çocuk kitabından başlaman gerekmez; ilgi alanların zaten senin müfredatın.",
+    "note": "Sohbet ve ekran görüntüsü yakalamada içerik, seçtiğin yapay zekâ servisine gönderilir. Neyi yakalayacağına sen karar verirsin.",
+    "startTitle": "Herkes başka bir yerden başlar.",
+    "startText": "Ana dilin, hayatın, amacın ve ilgi alanların senin yolunu belirler. Bir insanın yeni bir dili nasıl algıladığı, bilimde hâlâ tartışılan, karmaşık bir alan. Senin elinde olan ise kararlılık ve süreklilik. LinguLab, kendi yolunu deneyerek bulacağın laboratuvar olmak istiyor."
+  },
+  "science": {
+    "title": "Kanıta bakarak kurduk.",
+    "intro": "LinguLab, dil edinimi ve bellek araştırmalarından gelen ilkeler üzerine kuruldu. Bu araştırmalar yöntemleri inceliyor; LinguLab'in kendi etkisi henüz ölçülmedi.",
+    "inSystem": "Sistemde:",
+    "source": "Kaynak:",
+    "items": [
+      {
+        "title": "Anlaşılır girdi",
+        "text": "Bir metindeki bilinmeyen kelime yoğunluğu, ne kadar anladığını etkiler. Krashen'in girdi hipotezi tartışmalı olsa da anlamak için dinlemek ve okumak hâlâ temel kabul ediliyor. Bir araştırmada, tek bir uzun televizyon programı izlemek bile kelime öğrenimi sağladı.",
+        "system": "Altyazılı çalışma, kademeli anlama geçişleri, kitapta tek dokunuşla sözlük.",
+        "sources": [
+          {
+            "label": "Hu ve Nation 2000",
+            "url": "https://doi.org/10.64152/10125/66973"
+          },
+          {
+            "label": "Krashen 1985",
+            "url": "https://cir.nii.ac.jp/crid/1130282270300036096?lang=en"
+          },
+          {
+            "label": "Peters ve Webb 2018",
+            "url": "https://doi.org/10.1017/s0272263117000407"
+          }
+        ]
+      },
+      {
+        "title": "Üretim ve etkileşim",
+        "text": "Anlamak tek başına yetmez. Dili kendin üretmeye çalışmak ve karşılıklı kullanmak da gelişime katkı sağlar.",
+        "system": "Kendi sesini kaydedip karşılaştırma, diyaloglarda rol alma.",
+        "sources": [
+          {
+            "label": "Swain 1985",
+            "url": ""
+          },
+          {
+            "label": "Long 1996",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Gölgeleme",
+        "text": "Duyduğunu aynı anda tekrar etmek üzerine yapılan çalışmalar umut verici, ama sonuçlar kişiye ve seviyeye göre değişiyor. Japonya'da 43 öğrenciyle yapılan bir çalışmada ses algısı iki seviyede de gelişti, lise seviyesi dinleme sorularında ise yalnızca düşük seviyedekiler ilerledi. Dört haftalık bir eğitim çalışmasında konuşmayı içeren gruplarda çalışma belleği görevinde tepki süresi kısaldı.",
+        "system": "Cümle cümle gölgeleme, tam klip kaydı.",
+        "sources": [
+          {
+            "label": "Hamada 2016",
+            "url": "https://doi.org/10.1177/1362168815597504"
+          },
+          {
+            "label": "Takeuchi ve diğerleri 2021",
+            "url": "https://doi.org/10.1007/s11682-020-00324-4"
+          }
+        ]
+      },
+      {
+        "title": "Hatırlamaya çalışmak",
+        "text": "Bir bilgiyi yeniden okumak yerine zihinden geri çağırmak, onu daha uzun süre akılda tutmaya yardım eder.",
+        "system": "Flashcard tekrarları.",
+        "sources": [
+          {
+            "label": "Roediger ve Karpicke 2006",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+          },
+          {
+            "label": "Karpicke ve Roediger 2008",
+            "url": "https://doi.org/10.1126/science.1152408"
+          }
+        ]
+      },
+      {
+        "title": "Tekrarı zamana yaymak",
+        "text": "Aynı çalışmayı tek seferde yapmak yerine zamana bölmek, sözel hatırlamayı güçlendirir.",
+        "system": "LinguMediaLab ve LinguFlow'da Leitner, LinguBookLab'de FSRS.",
+        "sources": [
+          {
+            "label": "Cepeda ve diğerleri 2006",
+            "url": "https://doi.org/10.1037/0033-2909.132.3.354"
+          }
+        ]
+      },
+      {
+        "title": "Biçime dikkat etmek",
+        "text": "Yalnızca maruz kalmak çoğu zaman yetmez. Dilin yapısına dikkat etmek ve geri bildirim almak da işe yarar.",
+        "system": "Cümle ve dil bilgisi analizi, kendi kaydını özgün sesle karşılaştırma.",
+        "sources": [
+          {
+            "label": "Lightbown ve Spada 2021",
+            "url": ""
+          },
+          {
+            "label": "Lyster ve Ranta 1997",
+            "url": "https://doi.org/10.1017/S0272263197001034"
+          }
+        ]
+      },
+      {
+        "title": "Keyif",
+        "text": "Yabancı dil öğrenenlerle yapılan geniş bir araştırmada keyif, kaygıdan belirgin biçimde yüksek çıktı. Pek çok katılımcı en keyifli anı olarak uzun çabasının karşılığını aldığını fark ettiği anı anlattı. Bu sınıf ortamında yapılmış bir çalışma, ama anlamlı olduğunu düşünüyoruz: İlgini çeken içerikle ve kendi hızınla çalışmak, bu anlara daha sık varmak için bir yol olabilir.",
+        "system": "Kendi seçtiğin malzeme, kişisel ilerleme raporları.",
+        "sources": [
+          {
+            "label": "Dewaele ve MacIntyre 2014",
+            "url": "https://doi.org/10.14746/ssllt.2014.4.2.5"
+          }
+        ]
+      }
+    ],
+    "newTab": "yeni sekmede açılır",
+    "netNote": "Bağlar yalnızca görseldir, bilimsel bir ilişki göstermez."
+  },
+  "apps": {
+    "title": "Tek sistem, beş parça.",
+    "statusLabel": "Durum:",
+    "items": [
+      {
+        "name": "LinguMediaLab",
+        "text": "Video ve sesi altyazılı çalışma malzemesine çevirir. Shadowing, rol alma ve kelime kartları burada.",
+        "status": "macOS'ta çalışıyor. Windows yapım aşamasında."
+      },
+      {
+        "name": "LinguBookLab",
+        "text": "EPUB ve PDF okuyucu. Çevrimdışı sözlük, yapay zekâ ile açıklama, sesli okuma ve kelime kartları.",
+        "status": "macOS ve Windows. Henüz yayınlanmadı."
+      },
+      {
+        "name": "LinguScraper",
+        "text": "Bilgisayarında seçtiğin metni tek kısayolla not ve kelimeye çevirir. Telefon ekran görüntülerini de işler.",
+        "status": "macOS'ta günlük kullanımda. Windows yapım aşamasında."
+      },
+      {
+        "name": "LinguSync",
+        "text": "Tüm uygulamalardan gelen kelime ve notları tek yerde toplar, Obsidian notları ve düzenli raporlar üretir.",
+        "status": "Kurucunun kendi kurulumunda çalışıyor. Herkese açık değil."
+      },
+      {
+        "name": "LinguFlow",
+        "text": "Topladığın her şey telefonunda. Tekrar kartları, kelime listeleri, rapor geçmişi.",
+        "status": "Kurucunun kendi kurulumunda çalışıyor. Herkese açık değil."
+      }
+    ],
+    "notice": "Bu sayfa yapım aşamasında.",
+    "close": "Kapat"
+  },
+  "roadmap": {
+    "title": "Nerede duruyoruz, nereye gidiyoruz.",
+    "status": {
+      "now": "Bugün",
+      "next": "Sırada",
+      "later": "Sonra"
+    },
+    "closing": "Bundan sonraki olasılıkları şu an araştırıyoruz."
+  },
+  "founder": {
+    "title": "Neden yaptım?",
+    "paragraphs": [
+      "Aniden yeni bir ülkeye taşındım. Hollandaca hakkında hiçbir fikrim yoktu. Çevremde onlarca insan telaşla Hollandaca çalışıyor, herkes birbirinden tavsiye alıyordu.",
+      "Ben önce başka sorularla başladım: Dil öğrenmek ne demek? Dil öğrenimi beyinde nasıl gerçekleşiyor? Bunu etkileyen faktörler neler? Ana dilinden çok farklı dilleri iyi öğrenen kişiler bunu nasıl başarmış? Okudukça, çevremi ve kendimi gözlemledikçe kendi yöntemlerimi geliştirdim ve şunu gördüm: Bu, en azından uzun yıllar süren bir yol ve ölçülebilir bir varış noktası yok.",
+      "Çocuk kitabı okumak ya da çizgi film izlemek istemiyordum. Kendi benliğimi başka bir dilde kurmak istiyordum. Kendi dilimde sevdiğim konuları ve yaptığım işleri o dilde de inşa etmem gerekiyordu. Bunu yaparken hem dili, hem yeni şeyleri, hem de toplumun kültürünü bir arada öğrenebilirdim.",
+      "Bunu kısa sürede yapmaya çalışıp kendimi strese sokmak yerine, dilin yapısını belirli bir seviyede öğrendikten sonra bir sistem kurmaya karar verdim. Amacım öğrendiklerimi uzun vadede refleks haline getirmek ve bunu etkili, sürdürülebilir bir şekilde yapabilmekti. Bana yardım edecek bir uygulama bulamayınca kendim yaptım. Bugün onu kullanıyorum ve aynı amacı paylaşan kişilere de yardımcı olmasını umuyorum."
+    ]
+  },
+  "contact": {
+    "title": "Fikrin varsa duymak isterim.",
+    "text": "LinguLab henüz herkese açık değil. Yorumun, önerin ya da katkın varsa bana yazabilirsin."
+  }
+}

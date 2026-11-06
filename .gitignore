@@ -1,0 +1,10 @@
+_screens-raw/
+_screens-ready/
+node_modules/
+dist/
+.astro/
+public/screens/booklab/
+.DS_Store
+prototypes/
+docs/
+.claude/

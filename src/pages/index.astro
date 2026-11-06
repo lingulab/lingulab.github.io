@@ -1,0 +1,17 @@
+---
+import { defaultLocale, brand } from '../site.config';
+import { href } from '../utils';
+const target = href(`${defaultLocale}/`);
+---
+<!doctype html>
+<html lang={defaultLocale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <title>{brand}</title>
+  </head>
+  <body>
+    <a href={target}>{brand}</a>
+  </body>
+</html>

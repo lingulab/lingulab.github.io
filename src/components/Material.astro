@@ -1,0 +1,18 @@
+---
+import { useTranslations } from '../i18n';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+<section class="section" id="malzeme">
+  <div class="split">
+    <h2>{t('material.title')}</h2>
+    <div class="prose">
+      <p>{t('material.text')}</p>
+      <p class="small-print">{t('material.note')}</p>
+    </div>
+  </div>
+  <div class="split sub">
+    <h3>{t('material.startTitle')}</h3>
+    <div class="prose"><p>{t('material.startText')}</p></div>
+  </div>
+</section>

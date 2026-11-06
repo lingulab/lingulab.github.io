@@ -1,0 +1,28 @@
+---
+import { useTranslations } from '../i18n';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const cycles: string[] = t('solution.cycles');
+const labelY = [404, 467, 537, 608];
+---
+<section class="section flush-b" id="cozum">
+  <div class="loop">
+    <div class="loop-text">
+      <h2>{t('solution.title')}</h2>
+      {t('solution.intro').map((p: string) => <p>{p}</p>)}
+    </div>
+    <figure class="rings">
+      <svg viewBox="0 0 640 640" role="img" aria-label={t('solution.ringsAria')}>
+        <path class="out" d="M270.5 228.5A104 104 0 0 1 353.5 221.5L336.8 270.8A52 52 0 0 0 295.3 274.3Z"/><path class="in" d="M359.0 223.6A104 104 0 1 1 265.5 231.4L292.8 275.7A52 52 0 1 0 339.5 271.8Z"/><path class="out" d="M239.1 170.5A170 170 0 0 1 445.5 205.4L402.7 244.5A112 112 0 0 0 266.7 221.5Z"/><path class="in" d="M451.7 212.6A170 170 0 1 1 230.9 175.2L261.3 224.6A112 112 0 1 0 406.8 249.2Z"/><path class="out" d="M203.9 105.4A244 244 0 0 1 562.5 292.8L496.9 300.2A178 178 0 0 0 235.3 163.4Z"/><path class="in" d="M563.6 306.4A244 244 0 1 1 192.1 112.2L226.7 168.4A178 178 0 1 0 497.7 310.1Z"/><path class="out" d="M171.6 45.5A312 312 0 0 1 591.3 474.1L539.1 444.5A252 252 0 0 0 200.1 98.3Z"/><path class="in" d="M582.3 489.0A312 312 0 1 1 156.5 54.3L188.0 105.4A252 252 0 1 0 531.8 456.5Z"/>
+        <line class="start" x1="298.0" y1="281.9" x2="161.0" y2="44.6"/>
+        <g class="ringlabels">{cycles.map((label, i) => <text x="320" y={labelY[i]} text-anchor="middle">{label}</text>)}</g>
+      </svg>
+      <div class="legend"><span class="li">{t('solution.legendIn')}</span><span class="lo">{t('solution.legendOut')}</span></div>
+      <figcaption>{t('solution.caption')}</figcaption>
+    </figure>
+  </div>
+  <div class="pair-text">
+    <p>{t('solution.content')}</p>
+    <p>{t('solution.collecting')}</p>
+  </div>
+</section>

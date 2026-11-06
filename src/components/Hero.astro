@@ -1,0 +1,38 @@
+---
+import { useTranslations } from '../i18n';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+<section class="hero" id="top">
+  <div>
+    <h1>{t('hero.titleBefore')} <em>{t('hero.titleEm')}</em></h1>
+    <p class="lead">{t('hero.lead')}</p>
+  </div>
+  <svg class="system" id="sistem" viewBox="0 0 620 660" role="img" aria-label={t('diagram.aria')}>
+    <g class="stream">
+      <path d="M110 84V132"/><path d="M310 84V132"/><path d="M510 84V132"/>
+      <path d="M110 228C110 310 310 260 310 360"/><path d="M310 228V360"/><path d="M510 228C510 310 310 260 310 360"/>
+      <path d="M310 440C310 500 110 480 110 542"/><path d="M310 440V542"/><path d="M310 440C310 500 510 480 510 542"/>
+    </g>
+   <defs><radialGradient id="flow-light"><stop offset="0" stop-color="#f4f8b0"/><stop offset=".3" stop-color="#c8d32f" stop-opacity=".75"/><stop offset="1" stop-color="#c8d32f" stop-opacity="0"/></radialGradient></defs>
+   <g class="flow-lights" aria-hidden="true"><circle r="15" fill="url(#flow-light)" opacity="0"><animateMotion dur="7s" repeatCount="indefinite" path="M110 84V228C110 310 310 260 310 360" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.01;0.36;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.01;0.040;0.330;0.36;1"/></circle><circle r="15" fill="url(#flow-light)" opacity="0"><animateMotion dur="7s" repeatCount="indefinite" path="M310 84V360" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.12;0.4;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.12;0.150;0.370;0.4;1"/></circle><circle r="15" fill="url(#flow-light)" opacity="0"><animateMotion dur="7s" repeatCount="indefinite" path="M510 84V228C510 310 310 260 310 360" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.22;0.55;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.22;0.250;0.520;0.55;1"/></circle><circle r="15" fill="url(#flow-light)" opacity="0"><animateMotion dur="7s" repeatCount="indefinite" path="M310 440C310 500 110 480 110 542" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.62;0.88;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.62;0.650;0.850;0.88;1"/></circle><circle r="15" fill="url(#flow-light)" opacity="0"><animateMotion dur="7s" repeatCount="indefinite" path="M310 440V542" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.62;0.88;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.62;0.650;0.850;0.88;1"/></circle><circle r="15" fill="url(#flow-light)" opacity="0"><animateMotion dur="7s" repeatCount="indefinite" path="M310 440C310 500 510 480 510 542" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.62;0.88;1"/><animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.62;0.650;0.850;0.88;1"/></circle></g>
+    <g class="mat">
+      <text x="110" y="28">{t('diagram.m1a')}</text><text x="110" y="52">{t('diagram.m1b')}</text>
+      <text x="310" y="40">{t('diagram.m2')}</text>
+      <text x="510" y="16">{t('diagram.m3a')}</text><text x="510" y="40">{t('diagram.m3b')}</text><text x="510" y="64">{t('diagram.m3c')}</text>
+    </g>
+    <g class="node">
+      <rect x="10" y="134" width="200" height="92" rx="14"/><text x="110" y="187">{t('diagram.mediaLab')}</text>
+      <rect x="214" y="134" width="192" height="92" rx="14"/><text x="310" y="187">{t('diagram.bookLab')}</text>
+      <rect x="414" y="134" width="196" height="92" rx="14"/><text x="512" y="176">{t('diagram.scraper')}</text><text class="s" x="512" y="202">{t('diagram.scraperSub')}</text>
+    </g>
+    <g class="hub">
+      <rect x="150" y="362" width="320" height="78" rx="14"/><text x="310" y="400">{t('diagram.sync')}</text><text class="s" x="310" y="424">{t('diagram.syncSub')}</text>
+    </g>
+    <g class="node">
+      <rect x="10" y="544" width="200" height="92" rx="14"/><text x="110" y="584">{t('diagram.flow')}</text><text class="s" x="110" y="610">{t('diagram.flowSub')}</text>
+      <rect x="214" y="544" width="192" height="92" rx="14"/><text x="310" y="597">{t('diagram.obsidian')}</text>
+      <rect x="414" y="544" width="196" height="92" rx="14"/><text x="512" y="584">{t('diagram.reports')}</text><text class="s" x="512" y="610">{t('diagram.reportsSub')}</text>
+    </g>
+  </svg>
+</section>

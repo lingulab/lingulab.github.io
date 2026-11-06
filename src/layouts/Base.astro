@@ -1,0 +1,30 @@
+---
+import '../styles/global.css';
+import { locales, useTranslations } from '../i18n';
+import { siteUrl, base, defaultLocale } from '../site.config';
+import { href } from '../utils';
+
+interface Props { lang: string }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const origin = siteUrl.replace(/\/$/, '');
+const abs = (code: string) => `${origin}${href(`${code}/`)}`;
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{t('meta.title')}</title>
+    <meta name="description" content={t('meta.description')} />
+    {origin && <link rel="canonical" href={abs(lang)} />}
+    {origin && locales.map((code) => <link rel="alternate" hreflang={code} href={abs(code)} />)}
+    {origin && <link rel="alternate" hreflang="x-default" href={abs(defaultLocale)} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,25 @@
+---
+import { useTranslations } from '../i18n';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const items: { name: string; text: string; status: string }[] = t('apps.items');
+---
+<section class="section" id="uygulamalar">
+  <h2>{t('apps.title')}</h2>
+  <div class="apps">
+    {items.map((app, i) => (
+      <button type="button" class:list={['app', `p${i + 1}`]} data-app>
+        <span class="name">{app.name}</span>
+        <span class="desc">{app.text}</span>
+        <span class="status"><b>{t('apps.statusLabel')}</b> {app.status}</span>
+      </button>
+    ))}
+  </div>
+  <dialog class="notice" id="app-notice" aria-labelledby="app-notice-text">
+    <p id="app-notice-text">{t('apps.notice')}</p>
+    <button type="button" class="btn" data-close>{t('apps.close')}</button>
+  </dialog>
+</section>
+<script>
+  import '../scripts/notice.ts';
+</script>

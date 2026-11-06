@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "LinguLab, bouw jezelf op in een andere taal",
+    "description": "LinguLab is een taallab voor mensen die een taal willen verwerven met jarenlange, echte inzet. Wat je kijkt, leest, hoort en op je scherm tegenkomt, wordt studiemateriaal."
+  },
+  "nav": {
+    "label": "Hoofdnavigatie",
+    "system": "Systeem",
+    "science": "Wetenschap",
+    "apps": "Apps",
+    "roadmap": "Routekaart",
+    "language": "Kies een taal"
+  },
+  "hero": {
+    "titleBefore": "Bouw jezelf op in",
+    "titleEm": "een andere taal.",
+    "lead": "LinguLab is een taallab voor mensen die een taal willen verwerven met jarenlange, echte inzet. Wat je kijkt, leest, hoort en op je scherm tegenkomt, wordt studiemateriaal."
+  },
+  "diagram": {
+    "aria": "Systeemschema: series, films, podcasts, boeken, webpagina's, documenten en schermafbeeldingen van je telefoon komen in LinguMediaLab, LinguBookLab en LinguScraper, vloeien samen in LinguSync en bereiken LinguFlow, Obsidian-notities en rapporten per e-mail.",
+    "m1a": "Series, films,",
+    "m1b": "documentaires, podcasts",
+    "m2": "Boeken",
+    "m3a": "Web, document, WhatsApp,",
+    "m3b": "vertaal- en AI-",
+    "m3c": "schermafbeeldingen",
+    "mediaLab": "LinguMediaLab",
+    "bookLab": "LinguBookLab",
+    "scraper": "LinguScraper",
+    "scraperSub": "desktop en telefoon",
+    "sync": "LinguSync",
+    "syncSub": "alles komt samen",
+    "flow": "LinguFlow",
+    "flowSub": "kaarten en rapporten",
+    "obsidian": "Obsidian-notities",
+    "reports": "Rapporten",
+    "reportsSub": "per e-mail"
+  },
+  "problem": {
+    "title": "Een taal leer je niet in een reeks van drie weken.",
+    "paragraphs": [
+      "Het stopt niet zodra je een examen haalt of een cursus afrondt. Het vraagt jarenlang volhouden, en soms voelt het eindeloos. Daarom geven zoveel mensen onderweg op: ze vinden het juiste systeem niet, of ze vinden het en houden het niet vol.",
+      "De meeste apps binden je aan hun inhoud, hun niveau en hun tempo. Steeds dezelfde zinnen, onderwerpen die niets met jou te maken hebben. Het gaat voelen als een extra baan naast je leven. En het kan je weghouden van de cultuur en de echte wereld van de taal die je probeert te leren.",
+      "Dan zijn er nog de tientallen woorden en uitdrukkingen die je tegenkomt in boeken, series en online. Ze opschrijven en er later op terugkomen kost veel moeite. In de drukte van alledag raak je de meeste gewoon kwijt."
+    ]
+  },
+  "solution": {
+    "title": "Een taal leren is geen rechte lijn. Het gaat in cycli.",
+    "intro": [
+      "Elke ring is een cyclus. Elke cyclus begint op hetzelfde punt: eerst begrijp je, dan produceer je. Terwijl je produceert, merk je meer op, en de volgende cyclus wordt breder.",
+      "Als de ringen groeien, begrijp je meer en produceer je meer. En in elke cyclus neemt produceren een stukje meer van de ring in."
+    ],
+    "ringsAria": "Vier ringen in elkaar. Elke ring begint op hetzelfde punt. Naar buiten toe groeien de ringen, begrijpen en produceren nemen allebei toe en het aandeel van produceren wordt groter.",
+    "cycles": [
+      "Cyclus 1",
+      "Cyclus 2",
+      "Cyclus 3",
+      "Cyclus 4"
+    ],
+    "legendIn": "Begrijpen",
+    "legendOut": "Produceren",
+    "caption": "Een conceptueel schema, geen gemeten data. Verhoudingen en de lengte van een cyclus verschillen per persoon.",
+    "content": "Inhoud die jou boeit in je doeltaal voedt deze cyclus. Als je een boek leest dat je al kent uit je eigen taal, of een serie volgt in de originele taal, heb je een verhaal om je aan vast te houden terwijl je de taal ontdekt.",
+    "collecting": "De uitdrukkingen, woorden en zinnen die je onderweg tegenkomt, worden uit alle bronnen op één plek verzameld. Op vaste momenten kom je erop terug en haal je ze op. Het doel is dat je een vergelijkbare zin de volgende keer beter begrijpt."
+  },
+  "audience": {
+    "title": "Niet voor wie verwacht een taal vanaf de bank te leren.",
+    "paragraphs": [
+      "LinguLab is gemaakt voor mensen die echt willen leren en daar moeite voor willen doen.",
+      "We geloven niet in projecten die makkelijke of snelle methodes verkopen. Zulke beloftes zijn heel moeilijk te meten en ze verschillen per persoon. Ons vertrekpunt is eenvoud. We proberen een gereedschapskist te bouwen die flexibel en vol te houden is, veel mogelijkheden biedt en taalverwerving mogelijk maakt midden in het dagelijks leven.",
+      "Misschien heb je de juiste methode nog niet gevonden. Misschien ben je al een paar keer begonnen en gestopt. Dat is heel normaal. Als je accepteert hoe lang de weg is en klaar bent om je eigen systeem te bouwen, kun je hier verder."
+    ]
+  },
+  "journey": {
+    "title": "De reis van een uitdrukking",
+    "lead": "Je komt een uitdrukking één keer tegen. Het systeem laat haar niet meer los.",
+    "steps": [
+      {
+        "title": "Vangen",
+        "text": "Waar je ook een nieuwe uitdrukking tegenkomt, je bewaart haar in één handeling."
+      },
+      {
+        "title": "Begrijpen",
+        "text": "Je werkt ermee in de zin, met de klank en de context. Daar zijn LinguMediaLab, LinguBookLab en LinguScraper voor."
+      },
+      {
+        "title": "Verzamelen",
+        "text": "Waar ze ook vandaan komen, je uitdrukkingen komen samen in LinguSync, zodat je het grote geheel ziet."
+      },
+      {
+        "title": "Herhalen",
+        "text": "Je oefent met gespreide herhaling: op één plek met LinguFlow op telefoon of web, of met de kaarten in elke app."
+      },
+      {
+        "title": "Zien",
+        "text": "Wat je hebt verzameld en wat is blijven hangen, zie je in de apps, op je telefoon en in vaste rapporten per e-mail."
+      }
+    ],
+    "captures": [
+      {
+        "title": "In een video",
+        "text": "Klik op het woord in de ondertiteling.",
+        "alt": "Studiescherm voor video met ondertiteling, met de kaart die opent als je op een woord klikt"
+      },
+      {
+        "title": "In een boek",
+        "text": "Tik op het woord, zet het op een kaart.",
+        "alt": "Boekenlezer met het woordenboek dat opent als je op een woord tikt"
+      },
+      {
+        "title": "Op je computer",
+        "text": "Selecteer, druk op de sneltoets, bewaar.",
+        "alt": "Geselecteerde uitdrukking op een webpagina en het vangvenster van LinguScraper"
+      },
+      {
+        "title": "Op je telefoon",
+        "text": "Maak een schermafbeelding van WhatsApp, een vertaling of een AI-gesprek.",
+        "alt": ""
+      }
+    ],
+    "phonePlaceholder": "Telefoonscherm volgt",
+    "alts": {
+      "understand": "Woordvenster van LinguMediaLab met de betekenis en de zin van het gekozen woord",
+      "collect": "Datastroomscherm van LinguSync met uitdrukkingen uit verschillende apps in één stroom",
+      "repeat": "Detailscherm van een woord in de telefoonapp LinguFlow",
+      "seeOverview": "Flashcardoverzicht in LinguMediaLab",
+      "seePhone": "Startscherm van de telefoonapp LinguFlow"
+    }
+  },
+  "material": {
+    "title": "Alles kan studiemateriaal zijn.",
+    "text": "Series, films, documentaires, podcasts, boeken. Je werkdocumenten, je gesprekken, een artikel dat je online leest. Je werkt met alles wat je boeit in je doeltaal. Je hoeft niet met kinderboeken te beginnen. Je interesses zijn al je leerplan.",
+    "note": "Als je gesprekken en schermafbeeldingen vangt, gaat de inhoud naar de AI-dienst die jij kiest. Jij bepaalt wat je vangt.",
+    "startTitle": "Iedereen begint ergens anders.",
+    "startText": "Je moedertaal, je leven, je doel en je interesses bepalen je weg. Hoe iemand een nieuwe taal waarneemt, is in de wetenschap nog een complex onderwerp waarover wordt gediscussieerd. Wat wel in jouw handen ligt, is vastberadenheid en volhouden. LinguLab wil het lab zijn waar je door te proberen je eigen weg vindt."
+  },
+  "science": {
+    "title": "We hebben gebouwd op wat het bewijs laat zien.",
+    "intro": "LinguLab is gebaseerd op principes uit onderzoek naar taalverwerving en geheugen. Dat onderzoek kijkt naar methodes. Het effect van LinguLab zelf is nog niet gemeten.",
+    "inSystem": "In het systeem:",
+    "source": "Bron:",
+    "newTab": "opent in een nieuw tabblad",
+    "items": [
+      {
+        "title": "Begrijpelijke input",
+        "text": "De dichtheid van onbekende woorden in een tekst bepaalt mee hoeveel je begrijpt. Over de inputhypothese van Krashen wordt gediscussieerd, maar luisteren en lezen om te begrijpen gelden nog steeds als basis. In één onderzoek leidde het kijken van één volledig tv-programma al tot het leren van woorden.",
+        "system": "Studeren met ondertiteling, opbouwende luisterrondes, woordenboek met één tik in boeken.",
+        "sources": [
+          {
+            "label": "Hu en Nation 2000",
+            "url": "https://doi.org/10.64152/10125/66973"
+          },
+          {
+            "label": "Krashen 1985",
+            "url": "https://cir.nii.ac.jp/crid/1130282270300036096?lang=en"
+          },
+          {
+            "label": "Peters en Webb 2018",
+            "url": "https://doi.org/10.1017/s0272263117000407"
+          }
+        ]
+      },
+      {
+        "title": "Productie en interactie",
+        "text": "Alleen begrijpen is niet genoeg. Zelf proberen de taal te produceren en haar met anderen gebruiken draagt ook bij aan je ontwikkeling.",
+        "system": "Je eigen stem opnemen en vergelijken, een rol spelen in dialogen.",
+        "sources": [
+          {
+            "label": "Swain 1985",
+            "url": ""
+          },
+          {
+            "label": "Long 1996",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Shadowing",
+        "text": "Onderzoek naar het direct nazeggen van wat je hoort is veelbelovend, maar de resultaten verschillen per persoon en niveau. In een onderzoek met 43 studenten in Japan verbeterde de klankwaarneming op beide niveaus, terwijl alleen de lagere groep vooruitging op luistervragen op middelbareschoolniveau. In een trainingsonderzoek van vier weken werden de groepen die ook spraken sneller op een werkgeheugentaak.",
+        "system": "Shadowing per zin, opname van een hele clip.",
+        "sources": [
+          {
+            "label": "Hamada 2016",
+            "url": "https://doi.org/10.1177/1362168815597504"
+          },
+          {
+            "label": "Takeuchi e.a. 2021",
+            "url": "https://doi.org/10.1007/s11682-020-00324-4"
+          }
+        ]
+      },
+      {
+        "title": "Actief ophalen",
+        "text": "Iets uit je geheugen ophalen, in plaats van het opnieuw te lezen, helpt je het langer te onthouden.",
+        "system": "Herhalen met flashcards.",
+        "sources": [
+          {
+            "label": "Roediger en Karpicke 2006",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+          },
+          {
+            "label": "Karpicke en Roediger 2008",
+            "url": "https://doi.org/10.1126/science.1152408"
+          }
+        ]
+      },
+      {
+        "title": "Herhaling spreiden",
+        "text": "Dezelfde oefening over de tijd verdelen, in plaats van alles in één keer te doen, versterkt het verbale geheugen.",
+        "system": "Leitner in LinguMediaLab en LinguFlow, FSRS in LinguBookLab.",
+        "sources": [
+          {
+            "label": "Cepeda e.a. 2006",
+            "url": "https://doi.org/10.1037/0033-2909.132.3.354"
+          }
+        ]
+      },
+      {
+        "title": "Aandacht voor vorm",
+        "text": "Alleen blootstelling is vaak niet genoeg. Letten op de structuur van de taal en feedback krijgen helpen ook.",
+        "system": "Zins- en grammatica-analyse, je opname vergelijken met het origineel.",
+        "sources": [
+          {
+            "label": "Lightbown en Spada 2021",
+            "url": ""
+          },
+          {
+            "label": "Lyster en Ranta 1997",
+            "url": "https://doi.org/10.1017/S0272263197001034"
+          }
+        ]
+      },
+      {
+        "title": "Plezier",
+        "text": "In een groot onderzoek onder leerders van vreemde talen scoorde plezier duidelijk hoger dan angst. Veel deelnemers noemden als mooiste moment het moment waarop ze merkten dat hun lange inspanning iets had opgeleverd. Dit onderzoek ging over de klas, maar we vinden het betekenisvol: werken met inhoud die je boeit, in je eigen tempo, kan een manier zijn om zulke momenten vaker te bereiken.",
+        "system": "Materiaal dat je zelf kiest, persoonlijke voortgangsrapporten.",
+        "sources": [
+          {
+            "label": "Dewaele en MacIntyre 2014",
+            "url": "https://doi.org/10.14746/ssllt.2014.4.2.5"
+          }
+        ]
+      }
+    ],
+    "netNote": "De lijnen zijn alleen visueel en tonen geen wetenschappelijk verband."
+  },
+  "apps": {
+    "title": "Eén systeem, vijf stukken.",
+    "statusLabel": "Status:",
+    "notice": "Deze pagina is in aanbouw.",
+    "close": "Sluiten",
+    "items": [
+      {
+        "name": "LinguMediaLab",
+        "text": "Maakt van video en audio studiemateriaal met ondertiteling. Shadowing, rollenspel en woordkaarten vind je hier.",
+        "status": "Werkt op macOS. Windows in aanbouw."
+      },
+      {
+        "name": "LinguBookLab",
+        "text": "Lezer voor EPUB en PDF. Offline woordenboek, uitleg met AI, voorlezen en woordkaarten.",
+        "status": "macOS en Windows. Nog niet uitgebracht."
+      },
+      {
+        "name": "LinguScraper",
+        "text": "Maakt van tekst die je op je computer selecteert met één sneltoets een notitie en een woord. Verwerkt ook schermafbeeldingen van je telefoon.",
+        "status": "Dagelijks in gebruik op macOS. Windows in aanbouw."
+      },
+      {
+        "name": "LinguSync",
+        "text": "Verzamelt woorden en notities uit alle apps op één plek en maakt Obsidian-notities en vaste rapporten.",
+        "status": "Draait in de eigen opstelling van de maker. Niet openbaar."
+      },
+      {
+        "name": "LinguFlow",
+        "text": "Alles wat je hebt verzameld op je telefoon. Herhaalkaarten, woordenlijsten, rapportgeschiedenis.",
+        "status": "Draait in de eigen opstelling van de maker. Niet openbaar."
+      }
+    ]
+  },
+  "roadmap": {
+    "title": "Waar we staan, waar we heen gaan.",
+    "status": {
+      "now": "Vandaag",
+      "next": "Hierna",
+      "later": "Later"
+    },
+    "closing": "Wat daarna komt, onderzoeken we nog."
+  },
+  "founder": {
+    "title": "Waarom ik dit heb gemaakt",
+    "paragraphs": [
+      "Ik verhuisde plotseling naar een nieuw land. Ik had geen idee van het Nederlands. Om me heen waren tientallen mensen haastig Nederlands aan het leren, en iedereen vroeg elkaar om advies.",
+      "Ik begon met andere vragen: wat betekent het om een taal te leren? Hoe gebeurt dat in de hersenen? Wat speelt daarbij een rol? Hoe hebben mensen die talen leerden die heel anders zijn dan hun moedertaal dat gedaan? Terwijl ik las en mijn omgeving en mezelf observeerde, ontwikkelde ik mijn eigen methodes, en ik zag dit: het is minstens een weg van vele jaren, zonder meetbare finish.",
+      "Ik wilde geen kinderboeken lezen of tekenfilms kijken. Ik wilde mezelf in een andere taal opbouwen. De onderwerpen waar ik van houd en het werk dat ik doe in mijn eigen taal moest ik ook in die taal opbouwen. Zo kon ik de taal, nieuwe dingen en de cultuur van de samenleving tegelijk leren.",
+      "In plaats van dit snel te willen doen en mezelf stress te bezorgen, besloot ik een systeem te bouwen zodra ik de structuur van de taal tot een bepaald niveau kende. Mijn doel was wat ik leerde op de lange termijn tot reflexen te maken, op een effectieve en houdbare manier. Toen ik geen app vond die me daarbij kon helpen, maakte ik die zelf. Vandaag gebruik ik haar, en ik hoop dat ze ook mensen met hetzelfde doel helpt."
+    ]
+  },
+  "contact": {
+    "title": "Heb je een idee? Ik hoor het graag.",
+    "text": "LinguLab is nog niet openbaar. Heb je een opmerking, een suggestie of wil je iets bijdragen, dan kun je me schrijven."
+  }
+}

@@ -1,0 +1,11 @@
+---
+import { useTranslations } from '../i18n';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+<section class="section" id="sorun">
+  <div class="split">
+    <h2>{t('problem.title')}</h2>
+    <div class="prose">{t('problem.paragraphs').map((p: string) => <p>{p}</p>)}</div>
+  </div>
+</section>

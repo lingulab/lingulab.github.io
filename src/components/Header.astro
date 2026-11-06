@@ -1,0 +1,34 @@
+---
+import { useTranslations, locales } from '../i18n';
+import { href } from '../utils';
+import { brandParts, localeNames } from '../site.config';
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const menu = Object.keys(localeNames).filter((code) => locales.includes(code));
+---
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="#top">{brandParts[0]}<b>{brandParts[1]}</b></a>
+    <nav class="site-nav" aria-label={t('nav.label')}>
+      <a href="#sistem">{t('nav.system')}</a>
+      <a href="#bilim">{t('nav.science')}</a>
+      <a href="#uygulamalar">{t('nav.apps')}</a>
+      <a href="#yol-haritasi">{t('nav.roadmap')}</a>
+    </nav>
+    <details class="lang-menu" data-lang-menu>
+      <summary aria-label={t('nav.language')}>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.500 5.600 12 3z"/></svg>
+        <span>{localeNames[lang]}</span>
+        <svg class="chev" viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </summary>
+      <ul>
+        {menu.map((code) => (
+          <li><a href={href(`${code}/`)} lang={code} dir={code === 'ar' ? 'rtl' : undefined} aria-current={code === lang ? 'page' : undefined}>{localeNames[code]}</a></li>
+        ))}
+      </ul>
+    </details>
+  </div>
+</header>
+<script>
+  import '../scripts/lang-menu.ts';
+</script>
