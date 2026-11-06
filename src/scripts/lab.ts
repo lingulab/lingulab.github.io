@@ -6,6 +6,9 @@ if (lab) {
     nodes.forEach((n, i) => n.setAttribute('aria-pressed', String(i === index)));
     details.forEach((d, i) => { d.hidden = i !== index; });
   };
-  nodes.forEach((n, i) => n.addEventListener('click', () => show(i)));
+  nodes.forEach((n, i) => n.addEventListener('click', () => {
+    show(i);
+    if (innerWidth <= 700) details[i].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  }));
   show(0);
 }

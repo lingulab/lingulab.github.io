@@ -125,7 +125,8 @@
       "repeat": "Word detail screen in the LinguFlow phone app",
       "seeOverview": "LinguMediaLab flashcard overview screen",
       "seePhone": "Home screen of the LinguFlow phone app"
-    }
+    },
+    "zoom": "Enlarge"
   },
   "material": {
     "title": "Anything can be study material.",

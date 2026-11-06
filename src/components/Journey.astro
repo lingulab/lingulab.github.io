@@ -4,6 +4,8 @@ import { href } from '../utils';
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 const steps: { title: string; text: string }[] = t('journey.steps');
+const zoomLabel: string = t('journey.zoom');
+const closeLabel: string = t('apps.close');
 const caps: { title: string; text: string; alt: string }[] = t('journey.captures');
 const capImgs = [
   { cap: 0, src: 'screens/medialab/01-altyazi-buzlu.png', w: 3408, h: 2078 },
@@ -48,7 +50,14 @@ const capImgs = [
       </li>
     </ol>
   </div>
+  <dialog class="lightbox" id="lightbox" data-zoom-label={zoomLabel}>
+    <button type="button" class="lb-close" aria-label={closeLabel}><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <div class="lb-scroll"><img alt="" /></div>
+  </dialog>
 </section>
+<script>
+  import '../scripts/lightbox.ts';
+</script>
 <script>
   import '../scripts/flow.ts';
 </script>
