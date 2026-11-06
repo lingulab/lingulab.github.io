@@ -3,6 +3,7 @@ export const brand: string = brandParts.join('');
 
 // Leave empty until an address exists. The contact section then shows text only.
 export const contactEmail = 'lingulab.hello@gmail.com';
+export const founderName = 'Said';
 
 // Absolute origin, for example 'https://example.github.io' or 'https://lingulab.app'.
 // Empty means canonical and hreflang links are not emitted.

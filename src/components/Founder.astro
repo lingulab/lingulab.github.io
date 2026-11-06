@@ -1,9 +1,11 @@
 ---
 import { useTranslations } from '../i18n';
+import { founderName } from '../site.config';
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 ---
 <section class="section founder" id="kurucu-notu">
   <h2>{t('founder.title')}</h2>
   <blockquote>{t('founder.paragraphs').map((p: string) => <p>{p}</p>)}</blockquote>
+  <p class="signature">{founderName}</p>
 </section>
