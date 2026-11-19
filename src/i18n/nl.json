@@ -37,7 +37,7 @@
     "reportsSub": "per e-mail"
   },
   "problem": {
-    "title": "Een taal leer je niet in een reeks van drie weken.",
+    "title": "Een taal leer je niet in drie weken.",
     "paragraphs": [
       "Het stopt niet zodra je een examen haalt of een cursus afrondt. Het vraagt jarenlang volhouden, en soms voelt het eindeloos. Daarom geven zoveel mensen onderweg op: ze vinden het juiste systeem niet, of ze vinden het en houden het niet vol.",
       "De meeste apps binden je aan hun inhoud, hun niveau en hun tempo. Steeds dezelfde zinnen, onderwerpen die niets met jou te maken hebben. Het gaat voelen als een extra baan naast je leven. En het kan je weghouden van de cultuur en de echte wereld van de taal die je probeert te leren.",
@@ -45,7 +45,7 @@
     ]
   },
   "solution": {
-    "title": "Een taal leren is geen rechte lijn. Het gaat in cycli.",
+    "title": "Een taal leren gaat niet in een rechte lijn, maar in cycli.",
     "intro": [
       "Elke ring is een cyclus. Elke cyclus begint op hetzelfde punt: eerst begrijp je, dan produceer je. Terwijl je produceert, merk je meer op, en de volgende cyclus wordt breder.",
       "Als de ringen groeien, begrijp je meer en produceer je meer. En in elke cyclus neemt produceren een stukje meer van de ring in."
@@ -76,8 +76,8 @@
     "lead": "Je komt een uitdrukking één keer tegen. Het systeem laat haar niet meer los.",
     "steps": [
       {
-        "title": "Vangen",
-        "text": "Waar je ook een nieuwe uitdrukking tegenkomt, je bewaart haar in één handeling."
+        "title": "Vastleggen",
+        "text": "Waar je ook een nieuwe uitdrukking tegenkomt, je legt haar in één handeling vast."
       },
       {
         "title": "Begrijpen",
@@ -110,7 +110,7 @@
       {
         "title": "Op je computer",
         "text": "Selecteer, druk op de sneltoets, bewaar.",
-        "alt": "Geselecteerde uitdrukking op een webpagina en het vangvenster van LinguScraper"
+        "alt": "Geselecteerde uitdrukking op een webpagina en het venster van LinguScraper"
       },
       {
         "title": "Op je telefoon",
@@ -131,7 +131,7 @@
   "material": {
     "title": "Alles kan studiemateriaal zijn.",
     "text": "Series, films, documentaires, podcasts, boeken. Je werkdocumenten, je gesprekken, een artikel dat je online leest. Je werkt met alles wat je boeit in je doeltaal. Je hoeft niet met kinderboeken te beginnen. Je interesses zijn al je leerplan.",
-    "note": "Als je gesprekken en schermafbeeldingen vangt, gaat de inhoud naar de AI-dienst die jij kiest. Jij bepaalt wat je vangt.",
+    "note": "Als je gesprekken en schermafbeeldingen vastlegt, gaat de inhoud naar de AI-dienst die jij kiest. Jij bepaalt wat je vastlegt.",
     "startTitle": "Iedereen begint ergens anders.",
     "startText": "Je moedertaal, je leven, je doel en je interesses bepalen je weg. Hoe iemand een nieuwe taal waarneemt, is in de wetenschap nog een complex onderwerp waarover wordt gediscussieerd. Wat wel in jouw handen ligt, is vastberadenheid en volhouden. LinguLab wil het lab zijn waar je door te proberen je eigen weg vindt."
   },
@@ -145,7 +145,7 @@
       {
         "title": "Begrijpelijke input",
         "text": "De dichtheid van onbekende woorden in een tekst bepaalt mee hoeveel je begrijpt. Over de inputhypothese van Krashen wordt gediscussieerd, maar luisteren en lezen om te begrijpen gelden nog steeds als basis. In één onderzoek leidde het kijken van één volledig tv-programma al tot het leren van woorden.",
-        "system": "Studeren met ondertiteling, opbouwende luisterrondes, woordenboek met één tik in boeken.",
+        "system": "Studeren met ondertiteling, luisterrondes die stap voor stap moeilijker worden, een woordenboek met één tik in boeken.",
         "sources": [
           {
             "label": "Hu en Nation 2000",
@@ -280,7 +280,7 @@
     ]
   },
   "roadmap": {
-    "title": "Waar we staan, waar we heen gaan.",
+    "title": "Waar we staan en waar we heen gaan",
     "status": {
       "now": "Vandaag",
       "next": "Hierna",

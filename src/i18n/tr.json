@@ -31,21 +31,21 @@
     "sync": "LinguSync",
     "syncSub": "her şey tek yerde birleşir",
     "flow": "LinguFlow",
-    "flowSub": "telefonda kartlar, rapor",
+    "flowSub": "telefonda kartlar ve raporlar",
     "obsidian": "Obsidian notları",
     "reports": "Raporlar",
     "reportsSub": "e-posta ile"
   },
   "problem": {
-    "title": "Dil öğrenmek üç haftalık bir seri değil.",
+    "title": "Dil öğrenmek üç haftalık bir süreç değil.",
     "paragraphs": [
-      "Bir sınavı ya da kursu geçip sertifika alınca bitmiyor. Uzun süre devamlılık isteyen bir süreç bu, ve bazen insana sonsuz gibi geliyor. Pek çok insan bu yüzden yolda pes ediyor: Doğru sistemi kuramıyor, kursa bile sürdüremiyor.",
-      "Çoğu uygulama seni kendi içeriğine, kendi seviyene ve kendi hızına bağlar. Aynı cümleler, seninle ilgisi olmayan konular. Hayatının yanında fazladan bir iş yapıyormuşsun gibi hissedersin. Üstelik seni öğrenmeye çalıştığın dilin kültüründen ve gerçek dünyasından uzak tutabilir.",
-      "Bir de kitap, dizi ya da internette karşılaştığın onlarca kelime ve ifade var. Bunları bir yere yazmak ve dönüp bakmak çok emek ister. Günlük koşturmaca içinde çoğu unutulup gider."
+      "Bir sınavı geçip ya da bir kursu bitirip sertifika alınca sona ermiyor. Uzun süre devamlılık isteyen bir süreç bu ve bazen insana sonsuz gibi geliyor. Pek çok insan bu yüzden yolda pes ediyor: Doğru sistemi kuramıyor ya da kurabilse bile sürdüremiyor.",
+      "Çoğu uygulama seni kendi içeriğine, kendi seviye anlayışına ve kendi hızına bağlar. Aynı cümleler, seninle ilgisi olmayan konular. Hayatının yanında fazladan bir iş yapıyormuşsun gibi hissedersin. Üstelik seni öğrenmeye çalıştığın dilin kültüründen ve gerçek dünyasından uzak tutabilir.",
+      "Bir de kitaplarda, dizilerde ya da internette karşılaştığın onlarca kelime ve ifade var. Bunları bir yere yazmak ve onlara dönüp bakmak çok emek ister. Günlük koşturmaca içinde çoğu unutulup gider."
     ]
   },
   "solution": {
-    "title": "Dil öğrenmek düz bir çizgi değil, döngüdür.",
+    "title": "Dil öğrenmek düz bir çizgi değil, bir döngüdür.",
     "intro": [
       "Her halka bir döngü. Her döngü aynı noktadan başlar: Önce anlarsın, sonra üretirsin. Ürettikçe daha fazlasını fark edersin ve bir sonraki döngü daha geniş olur.",
       "Halkalar büyüdükçe anladığın da ürettiğin de artar. Üretimin payı ise her döngüde biraz daha genişler."
@@ -60,36 +60,36 @@
     "legendIn": "Anlama",
     "legendOut": "Üretme",
     "caption": "Kavramsal şema, ölçülmüş veri değil. Oranlar ve döngü uzunluğu kişiden kişiye değişir.",
-    "content": "Hedef dilde ilgini çeken içerikleri tüketmek bu döngüyü besler. Daha önce kendi dilinde okuduğun bir kitabı hedef dilde okumak ya da izlediğin bir diziyi özgün diliyle takip etmek, zaten bildiğin bir hikâyeye tutunarak dili anlamanı kolaylaştırır.",
-    "collecting": "Bu yolda karşılaştığın ifadeler, kelimeler ve cümleler tüm kaynaklardan tek bir yerde toplanır. Belirli aralıklarla onları tekrar eder, hatırlarsın. Bir sonraki sefer benzer bir cümleyle karşılaştığında onu daha iyi anlaman hedeflenir."
+    "content": "Hedef dilde ilgini çeken içerikler bu döngüyü besler. Kendi dilinde daha önce okuduğun bir kitabı hedef dilde okumak ya da izlediğin bir diziyi özgün dilinde yeniden izlemek, zaten bildiğin bir hikâyeye tutunarak dili anlamanı kolaylaştırır.",
+    "collecting": "Bu yolda karşılaştığın ifadeler, kelimeler ve cümleler bütün kaynaklardan tek bir yerde toplanır. Belirli aralıklarla onlara geri döner, onları hatırlamaya çalışırsın. Amaç, benzer bir cümleyle bir dahaki karşılaşmanda onu daha iyi anlaman."
   },
   "audience": {
     "title": "Koltukta hiç çaba harcamadan dil öğrenmeyi bekleyenler için değil.",
     "paragraphs": [
       "LinguLab, gerçekten öğrenmek isteyen ve bunun için emek vermeye hazır insanlar için yapıldı.",
-      "Kolay ya da hızlı yöntem pazarlayan projelere inanmıyoruz; bu tür iddiaları ölçmek çok zor ve insandan insana değişiyor. Bizim çıkış noktamız basitlik. Dil edinimini hayatın akışı içinde mümkün kılan, esnek, sürdürülebilir ve geniş olanaklar sunan bir araç takımı kurmaya çalışıyoruz.",
-      "Doğru yöntemi henüz bulamamış olabilirsin. Birkaç kez başlayıp bırakmış da olabilirsin. Bu çok normal. Yolun uzunluğunu kabul ediyorsan ve kendi sistemini kurmaya hazırsan buradan devam edebilirsin."
+      "Kolay ya da hızlı yöntem pazarlayan projelere inanmıyoruz; bu tür iddiaları ölçmek çok zor ve sonuçlar insandan insana değişiyor. Bizim çıkış noktamız sadelik. Dil edinimini hayatın akışı içinde mümkün kılan, esnek, sürdürülebilir ve geniş olanaklar sunan bir araç takımı kurmaya çalışıyoruz.",
+      "Doğru yöntemi henüz bulamamış olabilirsin. Birkaç kez başlayıp bırakmış da olabilirsin. Bu çok doğal. Yolun uzunluğunu kabul ediyorsan ve kendi sistemini kurmaya hazırsan buradan devam edebilirsin."
     ]
   },
   "journey": {
     "title": "Bir ifadenin yolculuğu",
-    "lead": "Bir ifadeye bir kez rastlarsın. Sistem onu bırakmaz.",
+    "lead": "Bir ifadeye bir kez rastlarsın. Sistem onun izini kaybetmez.",
     "steps": [
       {
         "title": "Yakala",
-        "text": "Yeni bir ifadeyle karşılaştığın yerde, tek hareketle kaydedersin."
+        "text": "Yeni bir ifadeyle nerede karşılaşırsan karşılaş, onu tek hareketle kaydedersin."
       },
       {
         "title": "Anla",
-        "text": "Cümlesiyle, sesiyle ve bağlamıyla çalışırsın. LinguMediaLab, LinguBookLab ve LinguScraper bunun için var."
+        "text": "İfadeyle cümlesi, sesi ve bağlamı içinde çalışırsın. LinguMediaLab, LinguBookLab ve LinguScraper bunun için var."
       },
       {
         "title": "Topla",
-        "text": "Nereden gelirse gelsin, ifadelerin LinguSync'te tek bir yerde birleşir ve büyük resmi görmene yardımcı olur."
+        "text": "Nereden gelirse gelsin, ifadelerin LinguSync'te tek bir yerde birleşir; böylece büyük resmi görürsün."
       },
       {
         "title": "Tekrar et",
-        "text": "Aralıklı tekrarla çalışırsın: Telefonda veya webde LinguFlow ile tek yerden, ya da her uygulamanın içindeki kartlarla."
+        "text": "Aralıklı tekrarla çalışırsın: Telefonda veya webde LinguFlow ile tek bir yerden ya da her uygulamanın içindeki kartlarla."
       },
       {
         "title": "Gör",
@@ -131,9 +131,9 @@
   "material": {
     "title": "Her şey çalışma malzemesi olabilir.",
     "text": "Dizi, film, belgesel, podcast, kitap. İş belgelerin, sohbetlerin, internette okuduğun bir yazı. Hedef dilde ilgini çeken ne varsa onunla çalışırsın. Çocuk kitabından başlaman gerekmez; ilgi alanların zaten senin müfredatın.",
-    "note": "Sohbet ve ekran görüntüsü yakalamada içerik, seçtiğin yapay zekâ servisine gönderilir. Neyi yakalayacağına sen karar verirsin.",
+    "note": "Sohbetleri ve ekran görüntülerini yakaladığında içerik, seçtiğin yapay zekâ servisine gönderilir. Neyi yakalayacağına sen karar verirsin.",
     "startTitle": "Herkes başka bir yerden başlar.",
-    "startText": "Ana dilin, hayatın, amacın ve ilgi alanların senin yolunu belirler. Bir insanın yeni bir dili nasıl algıladığı, bilimde hâlâ tartışılan, karmaşık bir alan. Senin elinde olan ise kararlılık ve süreklilik. LinguLab, kendi yolunu deneyerek bulacağın laboratuvar olmak istiyor."
+    "startText": "Ana dilin, hayatın, amacın ve ilgi alanların senin yolunu belirler. Bir insanın yeni bir dili nasıl algıladığı, bilimde hâlâ tartışılan karmaşık bir konu. Senin elinde olan ise kararlılık ve süreklilik. LinguLab, kendi yolunu deneyerek bulacağın laboratuvar olmak istiyor."
   },
   "science": {
     "title": "Kanıta bakarak kurduk.",
@@ -143,8 +143,8 @@
     "items": [
       {
         "title": "Anlaşılır girdi",
-        "text": "Bir metindeki bilinmeyen kelime yoğunluğu, ne kadar anladığını etkiler. Krashen'in girdi hipotezi tartışmalı olsa da anlamak için dinlemek ve okumak hâlâ temel kabul ediliyor. Bir araştırmada, tek bir uzun televizyon programı izlemek bile kelime öğrenimi sağladı.",
-        "system": "Altyazılı çalışma, kademeli anlama geçişleri, kitapta tek dokunuşla sözlük.",
+        "text": "Bir metinde bilmediğin kelimelerin oranı, ne kadar anladığını etkiler. Krashen'in girdi hipotezi tartışmalı olsa da anlamak için dinlemek ve okumak hâlâ temel kabul ediliyor. Bir araştırmada tek bir uzun televizyon programını izlemek bile yeni kelimeler öğrenmeyi sağladı.",
+        "system": "Altyazılı çalışma, zorluğu adım adım artan dinleme turları, kitapta tek dokunuşla sözlük.",
         "sources": [
           {
             "label": "Hu ve Nation 2000",
@@ -162,8 +162,8 @@
       },
       {
         "title": "Üretim ve etkileşim",
-        "text": "Anlamak tek başına yetmez. Dili kendin üretmeye çalışmak ve karşılıklı kullanmak da gelişime katkı sağlar.",
-        "system": "Kendi sesini kaydedip karşılaştırma, diyaloglarda rol alma.",
+        "text": "Anlamak tek başına yetmez. Dili kendin üretmeye çalışmak ve başkalarıyla kullanmak da gelişimine katkı sağlar.",
+        "system": "Kendi sesini kaydedip karşılaştırma, diyaloglarda rol yapma.",
         "sources": [
           {
             "label": "Swain 1985",
@@ -177,7 +177,7 @@
       },
       {
         "title": "Gölgeleme",
-        "text": "Duyduğunu aynı anda tekrar etmek üzerine yapılan çalışmalar umut verici, ama sonuçlar kişiye ve seviyeye göre değişiyor. Japonya'da 43 öğrenciyle yapılan bir çalışmada ses algısı iki seviyede de gelişti, lise seviyesi dinleme sorularında ise yalnızca düşük seviyedekiler ilerledi. Dört haftalık bir eğitim çalışmasında konuşmayı içeren gruplarda çalışma belleği görevinde tepki süresi kısaldı.",
+        "text": "Duyduğunu aynı anda tekrar etmek üzerine yapılan çalışmalar umut verici, ama sonuçlar kişiye ve seviyeye göre değişiyor. Japonya'da 43 öğrenciyle yapılan bir çalışmada ses algısı iki seviye grubunda da gelişti; lise seviyesindeki dinleme sorularında ise yalnızca düşük seviye grubu ilerledi. Dört haftalık bir eğitim çalışmasında konuşmayı içeren gruplar, bir çalışma belleği görevinde daha hızlı tepki verdi.",
         "system": "Cümle cümle gölgeleme, tam klip kaydı.",
         "sources": [
           {
@@ -233,7 +233,7 @@
       },
       {
         "title": "Keyif",
-        "text": "Yabancı dil öğrenenlerle yapılan geniş bir araştırmada keyif, kaygıdan belirgin biçimde yüksek çıktı. Pek çok katılımcı en keyifli anı olarak uzun çabasının karşılığını aldığını fark ettiği anı anlattı. Bu sınıf ortamında yapılmış bir çalışma, ama anlamlı olduğunu düşünüyoruz: İlgini çeken içerikle ve kendi hızınla çalışmak, bu anlara daha sık varmak için bir yol olabilir.",
+        "text": "Yabancı dil öğrenenlerle yapılan geniş bir araştırmada katılımcıların keyif düzeyi, kaygı düzeyinden belirgin biçimde yüksek çıktı. Pek çok katılımcı en keyifli anı olarak uzun çabasının karşılığını aldığını fark ettiği anı anlattı. Bu araştırma sınıf ortamında yapıldı, ama anlamlı olduğunu düşünüyoruz: İlgini çeken içerikle ve kendi hızınla çalışmak, bu anlara daha sık varmanın bir yolu olabilir.",
         "system": "Kendi seçtiğin malzeme, kişisel ilerleme raporları.",
         "sources": [
           {
@@ -252,13 +252,13 @@
     "items": [
       {
         "name": "LinguMediaLab",
-        "text": "Video ve sesi altyazılı çalışma malzemesine çevirir. Shadowing, rol alma ve kelime kartları burada.",
+        "text": "Video ve sesi altyazılı çalışma malzemesine çevirir. Gölgeleme (shadowing), rol yapma ve kelime kartları burada.",
         "status": "macOS'ta çalışıyor. Windows yapım aşamasında."
       },
       {
         "name": "LinguBookLab",
         "text": "EPUB ve PDF okuyucu. Çevrimdışı sözlük, yapay zekâ ile açıklama, sesli okuma ve kelime kartları.",
-        "status": "macOS ve Windows. Henüz yayınlanmadı."
+        "status": "macOS ve Windows. Henüz yayımlanmadı."
       },
       {
         "name": "LinguScraper",
@@ -280,21 +280,21 @@
     "close": "Kapat"
   },
   "roadmap": {
-    "title": "Nerede duruyoruz, nereye gidiyoruz.",
+    "title": "Nerede duruyoruz, nereye gidiyoruz?",
     "status": {
       "now": "Bugün",
       "next": "Sırada",
       "later": "Sonra"
     },
-    "closing": "Bundan sonraki olasılıkları şu an araştırıyoruz."
+    "closing": "Bundan sonraki olasılıkları şu anda araştırıyoruz."
   },
   "founder": {
     "title": "Neden yaptım?",
     "paragraphs": [
       "Aniden yeni bir ülkeye taşındım. Hollandaca hakkında hiçbir fikrim yoktu. Çevremde onlarca insan telaşla Hollandaca çalışıyor, herkes birbirinden tavsiye alıyordu.",
       "Ben önce başka sorularla başladım: Dil öğrenmek ne demek? Dil öğrenimi beyinde nasıl gerçekleşiyor? Bunu etkileyen faktörler neler? Ana dilinden çok farklı dilleri iyi öğrenen kişiler bunu nasıl başarmış? Okudukça, çevremi ve kendimi gözlemledikçe kendi yöntemlerimi geliştirdim ve şunu gördüm: Bu, en azından uzun yıllar süren bir yol ve ölçülebilir bir varış noktası yok.",
-      "Çocuk kitabı okumak ya da çizgi film izlemek istemiyordum. Kendi benliğimi başka bir dilde kurmak istiyordum. Kendi dilimde sevdiğim konuları ve yaptığım işleri o dilde de inşa etmem gerekiyordu. Bunu yaparken hem dili, hem yeni şeyleri, hem de toplumun kültürünü bir arada öğrenebilirdim.",
-      "Bunu kısa sürede yapmaya çalışıp kendimi strese sokmak yerine, dilin yapısını belirli bir seviyede öğrendikten sonra bir sistem kurmaya karar verdim. Amacım öğrendiklerimi uzun vadede refleks haline getirmek ve bunu etkili, sürdürülebilir bir şekilde yapabilmekti. Bana yardım edecek bir uygulama bulamayınca kendim yaptım. Bugün onu kullanıyorum ve aynı amacı paylaşan kişilere de yardımcı olmasını umuyorum."
+      "Çocuk kitabı okumak ya da çizgi film izlemek istemiyordum. Kendi benliğimi başka bir dilde kurmak istiyordum. Kendi dilimde sevdiğim konuları ve yaptığım işleri o dilde de inşa etmem gerekiyordu. Bunu yaparken hem dili hem yeni şeyleri hem de toplumun kültürünü bir arada öğrenebilirdim.",
+      "Bunu kısa sürede yapmaya çalışıp kendimi strese sokmak yerine, dilin yapısını belirli bir seviyede öğrendikten sonra bir sistem kurmaya karar verdim. Amacım öğrendiklerimi uzun vadede refleks hâline getirmek ve bunu etkili, sürdürülebilir bir şekilde yapabilmekti. Bana yardım edecek bir uygulama bulamayınca kendim yaptım. Bugün onu kullanıyorum ve aynı amacı paylaşan kişilere de yardımcı olmasını umuyorum."
     ]
   },
   "contact": {

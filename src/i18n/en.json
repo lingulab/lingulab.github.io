@@ -37,15 +37,15 @@
     "reportsSub": "by email"
   },
   "problem": {
-    "title": "Learning a language is not a three-week streak.",
+    "title": "You don't learn a language in three weeks.",
     "paragraphs": [
-      "It doesn't end when you pass an exam or finish a course. It takes years of keeping going, and some days it feels endless. That is why so many people give up along the way: they never find the right system, or they find it and can't keep it up.",
+      "It doesn't end when you pass an exam or finish a course. It takes years of keeping at it, and some days it feels endless. That is why so many people give up along the way: they never find the right system, or they find one and can't keep it up.",
       "Most apps tie you to their content, their level and their pace. The same sentences, topics that have nothing to do with you. It starts to feel like a second job next to your life. And it can keep you away from the culture and the real world of the language you are trying to learn.",
       "Then there are the dozens of words and phrases you run into in books, series and online. Writing them down and going back to them takes a lot of effort. In the rush of a normal day, most of them are simply lost."
     ]
   },
   "solution": {
-    "title": "Learning a language is not a straight line. It moves in cycles.",
+    "title": "Learning a language is not a straight line. It happens in cycles.",
     "intro": [
       "Each ring is a cycle. Each cycle starts at the same point: first you understand, then you produce. As you produce, you notice more, and the next cycle gets wider.",
       "As the rings grow, you understand more and you produce more. And with each cycle, production takes up a little more of the ring."
@@ -145,7 +145,7 @@
       {
         "title": "Comprehensible input",
         "text": "The density of unknown words in a text affects how much you understand. Krashen's input hypothesis is debated, but listening and reading for meaning are still seen as the foundation. In one study, watching a single full-length TV programme was enough to lead to word learning.",
-        "system": "Subtitle study, graded comprehension passes, one-tap dictionary in books.",
+        "system": "Studying with subtitles, listening rounds that get harder step by step, a one-tap dictionary in books.",
         "sources": [
           {
             "label": "Hu and Nation 2000",
@@ -280,7 +280,7 @@
     ]
   },
   "roadmap": {
-    "title": "Where we are, where we are going.",
+    "title": "Where we are, and where we are going",
     "status": {
       "now": "Today",
       "next": "Next",
