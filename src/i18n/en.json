@@ -101,31 +101,31 @@
       {
         "title": "In a video",
         "text": "Click the word in the subtitles.",
-        "alt": "Video study screen with subtitles, showing the card that opens when a word is clicked"
+        "alt": "Word card that opens when a word in the subtitle list is clicked"
       },
       {
         "title": "In a book",
         "text": "Tap the word, add it to your cards.",
-        "alt": "Book reader with the dictionary that opens when a word is tapped"
+        "alt": "Dictionary that opens when a word is tapped in the book reader"
       },
       {
         "title": "On your computer",
         "text": "Select, press the shortcut, save.",
-        "alt": "Selected phrase on a web page and the LinguScraper capture window"
+        "alt": "A word selected on a web page and the LinguScraper window"
       },
       {
         "title": "On your phone",
         "text": "Take a screenshot of WhatsApp, a translation or an AI chat.",
-        "alt": ""
+        "alt": "A highlighted message in a WhatsApp chat"
       }
     ],
-    "phonePlaceholder": "Phone screen coming",
     "alts": {
       "understand": "LinguMediaLab word window with the meaning and sentence of the selected word",
       "collect": "LinguSync data flow screen with phrases from different apps in one flow",
       "repeat": "Word detail screen in the LinguFlow phone app",
       "seeOverview": "LinguMediaLab flashcard overview screen",
-      "seePhone": "Home screen of the LinguFlow phone app"
+      "seeReports": "Weekly reports in the LinguFlow phone app",
+      "seeEmail": "Weekly video report received by email"
     },
     "zoom": "Enlarge"
   },

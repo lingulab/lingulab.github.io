@@ -101,31 +101,31 @@
       {
         "title": "In een video",
         "text": "Klik op het woord in de ondertiteling.",
-        "alt": "Studiescherm voor video met ondertiteling, met de kaart die opent als je op een woord klikt"
+        "alt": "Woordkaart die opent als je op een woord in de ondertitellijst klikt"
       },
       {
         "title": "In een boek",
         "text": "Tik op het woord, zet het op een kaart.",
-        "alt": "Boekenlezer met het woordenboek dat opent als je op een woord tikt"
+        "alt": "Woordenboek dat opent als je in de boekenlezer op een woord tikt"
       },
       {
         "title": "Op je computer",
         "text": "Selecteer, druk op de sneltoets, bewaar.",
-        "alt": "Geselecteerde uitdrukking op een webpagina en het venster van LinguScraper"
+        "alt": "Een geselecteerd woord op een webpagina en het venster van LinguScraper"
       },
       {
         "title": "Op je telefoon",
         "text": "Maak een schermafbeelding van WhatsApp, een vertaling of een AI-gesprek.",
-        "alt": ""
+        "alt": "Een gemarkeerd bericht in een WhatsApp-gesprek"
       }
     ],
-    "phonePlaceholder": "Telefoonscherm volgt",
     "alts": {
       "understand": "Woordvenster van LinguMediaLab met de betekenis en de zin van het gekozen woord",
       "collect": "Datastroomscherm van LinguSync met uitdrukkingen uit verschillende apps in één stroom",
       "repeat": "Detailscherm van een woord in de telefoonapp LinguFlow",
       "seeOverview": "Flashcardoverzicht in LinguMediaLab",
-      "seePhone": "Startscherm van de telefoonapp LinguFlow"
+      "seeReports": "Wekelijkse rapporten in de telefoonapp LinguFlow",
+      "seeEmail": "Wekelijks videorapport per e-mail"
     },
     "zoom": "Vergroten"
   },

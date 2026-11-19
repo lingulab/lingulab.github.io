@@ -101,7 +101,7 @@
       {
         "title": "Videoda",
         "text": "Altyazıdaki kelimeye tıkla.",
-        "alt": "Altyazılı video çalışma ekranında bir kelimeye tıklayınca açılan kart"
+        "alt": "Altyazı listesinde bir kelimeye tıklayınca açılan kelime kartı"
       },
       {
         "title": "Kitapta",
@@ -111,21 +111,21 @@
       {
         "title": "Bilgisayarda",
         "text": "Seç, kısayola bas, kaydet.",
-        "alt": "Web sayfasında seçilen ifade ve LinguScraper yakalama penceresi"
+        "alt": "Web sayfasında seçilen kelime ve LinguScraper penceresi"
       },
       {
         "title": "Telefonda",
         "text": "WhatsApp, çeviri ya da yapay zekâ ekranının görüntüsünü al.",
-        "alt": ""
+        "alt": "WhatsApp sohbetinde işaretlenmiş bir mesaj"
       }
     ],
-    "phonePlaceholder": "Telefon ekranı bekleniyor",
     "alts": {
       "understand": "LinguMediaLab kelime penceresi: seçilen kelimenin anlamı ve cümlesi",
       "collect": "LinguSync veri akışı ekranı: farklı uygulamalardan gelen ifadeler tek akışta",
       "repeat": "LinguFlow telefon uygulamasında bir kelimenin ayrıntı ekranı",
       "seeOverview": "LinguMediaLab flashcard genel bakış ekranı",
-      "seePhone": "LinguFlow telefon uygulamasının ana ekranı"
+      "seeReports": "LinguFlow telefon uygulamasında haftalık raporlar",
+      "seeEmail": "E-postayla gelen haftalık video raporu"
     },
     "zoom": "Büyüt"
   },
