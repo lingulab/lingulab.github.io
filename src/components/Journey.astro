@@ -8,10 +8,10 @@ const zoomLabel: string = t('journey.zoom');
 const closeLabel: string = t('apps.close');
 const caps: { title: string; text: string; alt: string }[] = t('journey.captures');
 const capImgs = [
-  { cap: 0, src: 'screens/capture/video.png', w: 2000, h: 1217, mark: [9.4, 45.9, 4.6, 3.1], side: 'right' },
-  { cap: 1, src: 'screens/capture/book.png', w: 1605, h: 1340, mark: [47.5, 58.4, 8, 3.8], side: 'left' },
-  { cap: 2, src: 'screens/capture/web.png', w: 1295, h: 1324, mark: [13.3, 29.3, 12.2, 2.3], side: 'left' },
-  { cap: 3, src: 'screens/capture/chat.png', w: 933, h: 700, mark: [0, 43.1, 100, 16.6], side: 'left' },
+  { cap: 0, src: 'screens/capture/video.webp', w: 1600, h: 974, mark: [9.4, 45.9, 4.6, 3.1], side: 'right' },
+  { cap: 1, src: 'screens/capture/book.webp', w: 1600, h: 1336, mark: [47.5, 58.4, 8, 3.8], side: 'left' },
+  { cap: 2, src: 'screens/capture/web.webp', w: 1295, h: 1324, mark: [13.3, 29.3, 12.2, 2.3], side: 'left' },
+  { cap: 3, src: 'screens/capture/chat.webp', w: 933, h: 700, mark: [0, 43.1, 100, 16.6], side: 'left' },
 ];
 ---
 <section class="journey" id="yolculuk">
@@ -36,22 +36,22 @@ const capImgs = [
       </li>
       <li>
         <div class="txt"><small></small><h3>{steps[1].title}</h3><p>{steps[1].text}</p></div>
-        <div class="pic"><img src={href('screens/medialab/02-kelime-penceresi-buzlu.png')} width="3408" height="2078" loading="lazy" decoding="async" alt={t('journey.alts.understand')} /></div>
+        <div class="pic"><img src={href('screens/medialab/02-kelime-penceresi-buzlu.webp')} width="1600" height="976" loading="lazy" decoding="async" alt={t('journey.alts.understand')} /></div>
       </li>
       <li>
         <div class="txt"><small></small><h3>{steps[2].title}</h3><p>{steps[2].text}</p></div>
-        <div class="pic"><img src={href('screens/sync/02-akis.png')} width="2826" height="1684" loading="lazy" decoding="async" alt={t('journey.alts.collect')} /></div>
+        <div class="pic"><img src={href('screens/sync/02-akis.webp')} width="1600" height="954" loading="lazy" decoding="async" alt={t('journey.alts.collect')} /></div>
       </li>
       <li>
         <div class="txt"><small></small><h3>{steps[3].title}</h3><p>{steps[3].text}</p></div>
-        <div class="pic phone"><img src={href('screens/flow/02-kelime-detay.png')} width="1028" height="2048" loading="lazy" decoding="async" alt={t('journey.alts.repeat')} /></div>
+        <div class="pic phone"><img src={href('screens/flow/02-kelime-detay.webp')} width="720" height="1435" loading="lazy" decoding="async" alt={t('journey.alts.repeat')} /></div>
       </li>
       <li>
         <div class="txt"><small></small><h3>{steps[4].title}</h3><p>{steps[4].text}</p></div>
         <div class="pair">
-          <div class="pic"><img src={href('screens/medialab/07-flashcard-overview.png')} width="3408" height="2078" loading="lazy" decoding="async" alt={t('journey.alts.seeOverview')} /></div>
-          <div class="pic phone"><img src={href('screens/flow/reports.png')} width="933" height="1910" loading="lazy" decoding="async" alt={t('journey.alts.seeReports')} /></div>
-          <div class="pic phone"><img src={href('screens/flow/email.png')} width="933" height="1910" loading="lazy" decoding="async" alt={t('journey.alts.seeEmail')} /></div>
+          <div class="pic"><img src={href('screens/medialab/07-flashcard-overview.webp')} width="1600" height="976" loading="lazy" decoding="async" alt={t('journey.alts.seeOverview')} /></div>
+          <div class="pic phone"><img src={href('screens/flow/reports.webp')} width="720" height="1474" loading="lazy" decoding="async" alt={t('journey.alts.seeReports')} /></div>
+          <div class="pic phone"><img src={href('screens/flow/email.webp')} width="720" height="1474" loading="lazy" decoding="async" alt={t('journey.alts.seeEmail')} /></div>
         </div>
       </li>
     </ol>
