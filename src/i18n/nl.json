@@ -39,16 +39,19 @@
   "problem": {
     "title": "Een taal leer je niet in drie weken.",
     "paragraphs": [
-      "Het stopt niet zodra je een examen haalt of een cursus afrondt. Het vraagt jarenlang volhouden, en soms voelt het eindeloos. Daarom geven zoveel mensen onderweg op: ze vinden het juiste systeem niet, of ze vinden het en houden het niet vol.",
-      "De meeste apps binden je aan hun inhoud, hun niveau en hun tempo. Steeds dezelfde zinnen, onderwerpen die niets met jou te maken hebben. Het gaat voelen als een extra baan naast je leven. En het kan je weghouden van de cultuur en de echte wereld van de taal die je probeert te leren.",
-      "Dan zijn er nog de tientallen woorden en uitdrukkingen die je tegenkomt in boeken, series en online. Ze opschrijven en er later op terugkomen kost veel moeite. In de drukte van alledag raak je de meeste gewoon kwijt."
+      "Het stopt niet zodra je een examen haalt of een cursus afrondt en je certificaat krijgt. Het vraagt jarenlang volhouden, en soms voelt het eindeloos. Daarom haken zoveel mensen halverwege af. Wat ik bij veel mensen om me heen zag, is dit: ze vinden het juiste systeem niet, of ze vinden het en houden het niet vol.",
+      "De redenen verschillen per persoon en per leertraject, maar één patroon viel me sterk op:",
+      "De meeste apps binden je aan hun eigen inhoud, hun eigen idee van jouw niveau en hun eigen tempo: steeds dezelfde zinnen, onderwerpen die niets met jou te maken hebben. Naast je dagelijks leven voelt het al snel als een extra klus. Bovendien kan het je weghouden van de cultuur en de echte wereld van de taal die je leert. Dat helpt mensen niet echt om vol te houden.",
+      "Is het dan onmogelijk om een leerketen op te bouwen die zowel duurzaam als samenhangend is? Of hoe zou het zijn als er hulpmiddelen waren die dat makkelijker maken en je meer vrijheid geven?"
     ]
   },
   "solution": {
     "title": "Een taal leren gaat niet in een rechte lijn, maar in cycli.",
     "intro": [
-      "Elke ring is een cyclus. Elke cyclus begint op hetzelfde punt: eerst begrijp je, dan produceer je. Terwijl je produceert, merk je meer op, en de volgende cyclus wordt breder.",
-      "Als de ringen groeien, begrijp je meer en produceer je meer. En in elke cyclus neemt produceren een stukje meer van de ring in."
+      "Elke ring is een nieuwe cyclus. In het begin gaat de meeste energie naar begrijpen en is het aandeel van produceren nog klein. Maar als je doorgaat, groeit zowel wat je begrijpt als wat je kunt produceren, en neemt produceren in elke ring een stukje meer ruimte in.",
+      "Het tempo en de vorm van die cyclus verschillen per persoon. Een nieuwe taal leren in je eigen land is iets anders dan leren terwijl je woont waar die taal wordt gesproken, en ook je doelen en motivatie bepalen het proces. Toch blijft de basis hetzelfde: taalverwerving verloopt niet in een rechte lijn. Naarmate de cyclus in weken en maanden groeit, ga je ongemerkt ingewikkeldere dingen begrijpen en kun je je makkelijker uitdrukken.",
+      "Wie het proces ziet als een race in een rechte lijn, raakt snel uitgeput en verliest zijn enthousiasme. Als je accepteert dat het in cycli gaat, je steeds op de volgende stap richt en je doel koppelt aan wat je in je dagelijks leven of werk echt wilt doen, wordt de weg veel leuker.",
+      "Of die opbouw doorgaat, hangt natuurlijk af van hoe we het proces aanpakken. Wilskracht alleen houdt geen cyclus van jaren overeind. We hebben realistische, duurzame hulpmiddelen nodig die in ons dagelijks leven passen en ons niet weghouden van onze interesses en van wat we willen doen."
     ],
     "ringsAria": "Vier ringen in elkaar. Elke ring begint op hetzelfde punt. Naar buiten toe groeien de ringen, begrijpen en produceren nemen allebei toe en het aandeel van produceren wordt groter.",
     "cycles": [
@@ -59,16 +62,14 @@
     ],
     "legendIn": "Begrijpen",
     "legendOut": "Produceren",
-    "caption": "Een conceptueel schema, geen gemeten data. Verhoudingen en de lengte van een cyclus verschillen per persoon.",
-    "content": "Inhoud die jou boeit in je doeltaal voedt deze cyclus. Als je een boek leest dat je al kent uit je eigen taal, of een serie volgt in de originele taal, heb je een verhaal om je aan vast te houden terwijl je de taal ontdekt.",
-    "collecting": "De uitdrukkingen, woorden en zinnen die je onderweg tegenkomt, worden uit alle bronnen op één plek verzameld. Op vaste momenten kom je erop terug en haal je ze op. Het doel is dat je een vergelijkbare zin de volgende keer beter begrijpt."
+    "caption": "Een conceptueel schema, geen gemeten data. Verhoudingen en de lengte van een cyclus verschillen per persoon."
   },
   "audience": {
-    "title": "Niet voor wie verwacht een taal vanaf de bank te leren.",
+    "title": "Het gaat niet om een wondermethode, maar om een systeem dat je volhoudt.",
     "paragraphs": [
-      "LinguLab is gemaakt voor mensen die echt willen leren en daar moeite voor willen doen.",
-      "We geloven niet in projecten die makkelijke of snelle methodes verkopen. Zulke beloftes zijn heel moeilijk te meten en ze verschillen per persoon. Ons vertrekpunt is eenvoud. We proberen een gereedschapskist te bouwen die flexibel en vol te houden is, veel mogelijkheden biedt en taalverwerving mogelijk maakt midden in het dagelijks leven.",
-      "Misschien heb je de juiste methode nog niet gevonden. Misschien ben je al een paar keer begonnen en gestopt. Dat is heel normaal. Als je accepteert hoe lang de weg is en klaar bent om je eigen systeem te bouwen, kun je hier verder."
+      "Een taal leren is meer dan grammaticaregels leren. De structuur van een taal is beperkt; de logica ervan kun je binnen een bepaalde tijd begrijpen. Wat echt tijd kost, is zien hoe die regels in het echte leven en in verschillende contexten in heel andere vormen opduiken, en dat met de tijd laten bezinken.",
+      "Op zo'n lange weg werken methodes die op korte termijn wonderen beloven niet, en ieders tempo en proces is toch al anders. Wat je vooruithelpt, is de tijd die je aan de taal besteedt, de uitdrukkingen die je opmerkt en het bijhouden van wat je leert. Precies dat wordt vaak over het hoofd gezien: een systeem hebben dat je kunt volhouden.",
+      "LinguLab is uit die behoefte ontstaan. In plaats van grote beloftes heeft het een nuchter doel: een flexibele gereedschapskist waarmee je je eigen studieritme opbouwt zonder je dagelijkse routine overhoop te gooien."
     ]
   },
   "journey": {
@@ -77,23 +78,23 @@
     "steps": [
       {
         "title": "Vastleggen",
-        "text": "Waar je ook een nieuwe uitdrukking tegenkomt, je legt haar in één handeling vast."
+        "text": "De uitdrukkingen en zinnen die je in digitale inhoud tegenkomt, leg je vast zonder je flow te onderbreken. Video's en podcasts, WhatsApp-berichten, vertalingen op je telefoon, een artikel dat je online opvalt, aantekeningen bij een e-book: waar het ook vandaan komt, je zet het in één handeling in je systeem."
       },
       {
         "title": "Begrijpen",
-        "text": "Je werkt ermee in de zin, met de klank en de context. Daar zijn LinguMediaLab, LinguBookLab en LinguScraper voor."
+        "text": "Je stampt de woorden en uitdrukkingen die je hebt vastgelegd niet alleen in, je begrijpt ze echt. Met praktische AI-uitleg bekijk je de betekenis in je eigen taal en in je doeltaal, en werk je met elke uitdrukking in haar zin, met haar klank en context. Daar zijn LinguMediaLab, LinguBookLab en LinguScraper voor."
       },
       {
         "title": "Verzamelen",
-        "text": "Waar ze ook vandaan komen, je uitdrukkingen komen samen in LinguSync, zodat je het grote geheel ziet."
+        "text": "Alles wat je uit verschillende bronnen vastlegt, komt samen op één centrale plek in LinguSync en wordt overzichtelijk bewaard. Uitdrukkingen die je in LinguMediaLab en LinguBookLab opslaat, blijven daarnaast binnen handbereik in de woordkaarten van die apps."
       },
       {
         "title": "Herhalen",
-        "text": "Je oefent met gespreide herhaling: op één plek met LinguFlow op telefoon of web, of met de kaarten in elke app."
+        "text": "Voordat je aan een nieuwe aflevering van een serie of podcast begint, kun je je voorbereiden door de woorden uit eerdere afleveringen te herhalen. Ben je onderweg of heb je even tijd, dan oefen je in de telefoonapp LinguFlow met de woorden en zinnen die je hebt geleerd."
       },
       {
         "title": "Zien",
-        "text": "Wat je hebt verzameld en wat is blijven hangen, zie je in de apps, op je telefoon en in vaste rapporten per e-mail."
+        "text": "Je volgt je voortgang concreet. Hoeveel nieuwe woorden en uitdrukkingen je bent tegengekomen en wat is blijven hangen: je ziet het grote geheel op het web, op je telefoon en in vaste rapporten."
       }
     ],
     "captures": [
@@ -130,10 +131,11 @@
   },
   "material": {
     "title": "Alles kan studiemateriaal zijn.",
-    "text": "Series, films, documentaires, podcasts, boeken. Je werkdocumenten, je gesprekken, een artikel dat je online leest. Je werkt met alles wat je boeit in je doeltaal. Je hoeft niet met kinderboeken te beginnen. Je interesses zijn al je leerplan.",
-    "note": "Als je gesprekken en schermafbeeldingen vastlegt, gaat de inhoud naar de AI-dienst die jij kiest. Jij bepaalt wat je vastlegt.",
-    "startTitle": "Iedereen begint ergens anders.",
-    "startText": "Je moedertaal, je leven, je doel en je interesses bepalen je weg. Hoe iemand een nieuwe taal waarneemt, is in de wetenschap nog een complex onderwerp waarover wordt gediscussieerd. Wat wel in jouw handen ligt, is vastberadenheid en volhouden. LinguLab wil het lab zijn waar je door te proberen je eigen weg vindt."
+    "note": "Als je gesprekken en schermafbeeldingen vastlegt, gaat de inhoud alleen naar de AI-dienst die jij kiest. Jij bepaalt wat je vastlegt.",
+    "paragraphs": [
+      "Series, films, documentaires, podcasts, boeken, je werkdocumenten, je gesprekken, een artikel dat je online leest. Je werkt met alles wat je boeit in je doeltaal.",
+      "Je hoeft je niet te beperken tot kunstmatig materiaal dat alleen voor taalonderwijs is gemaakt. Als je vooruitgaat met echte inhoud uit je dagelijks leven, zonder los te komen van je eigen wereld, wordt het proces veel natuurlijker, leuker en motiverender. Je interesses zijn al je leerplan."
+    ]
   },
   "science": {
     "title": "We hebben gebouwd op wat het bewijs laat zien.",
@@ -248,57 +250,52 @@
   },
   "apps": {
     "title": "Eén systeem, vijf stukken.",
-    "statusLabel": "Status:",
     "notice": "Deze pagina is in aanbouw.",
     "close": "Sluiten",
     "items": [
       {
         "name": "LinguMediaLab",
-        "text": "Maakt van video en audio studiemateriaal met ondertiteling. Shadowing, rollenspel en woordkaarten vind je hier.",
-        "status": "Werkt op macOS. Windows in aanbouw."
+        "text": "Maak van video en audio studiemateriaal met ondertiteling. Met shadowing, rollenspel en woordkaarten in context onthoud je beter wat je hoort."
       },
       {
         "name": "LinguBookLab",
-        "text": "Lezer voor EPUB en PDF. Offline woordenboek, uitleg met AI, voorlezen en woordkaarten.",
-        "status": "macOS en Windows. Nog niet uitgebracht."
+        "text": "Maak van EPUB- en PDF-boeken een interactieve leesomgeving. Een offline woordenboek, AI-uitleg en voorlezen op één plek."
       },
       {
         "name": "LinguScraper",
-        "text": "Maakt van tekst die je op je computer selecteert met één sneltoets een notitie en een woord. Verwerkt ook schermafbeeldingen van je telefoon.",
-        "status": "Dagelijks in gebruik op macOS. Windows in aanbouw."
+        "text": "Maak van elke tekst die je op je computer selecteert met één sneltoets een notitie en een woord. Schermafbeeldingen van je telefoon worden ook automatisch verwerkt."
       },
       {
         "name": "LinguSync",
-        "text": "Verzamelt woorden en notities uit alle apps op één plek en maakt Obsidian-notities en vaste rapporten.",
-        "status": "Draait in de eigen opstelling van de maker. Niet openbaar."
+        "text": "Breng alle woorden en notities uit verschillende bronnen samen op één centrale plek. Je ziet het grote geheel, en er komen Obsidian-notities en vaste voortgangsrapporten uit."
       },
       {
         "name": "LinguFlow",
-        "text": "Alles wat je hebt verzameld op je telefoon. Herhaalkaarten, woordenlijsten, rapportgeschiedenis.",
-        "status": "Draait in de eigen opstelling van de maker. Niet openbaar."
+        "text": "Neem alles wat zich in LinguSync opbouwt mee in je broekzak. Kaarten met gespreide herhaling, woordenlijsten en je leergeschiedenis, op elk moment van de dag bij de hand."
       }
-    ]
+    ],
+    "intro": "Elk stuk richt zich op één taak, maar staat nooit alleen: de hulpmiddelen bovenaan leggen uitdrukkingen uit verschillende bronnen vast, en het centrum eronder brengt alles samen en maakt er dagelijkse oefening van."
   },
   "roadmap": {
     "title": "Waar we staan en waar we heen gaan",
     "status": {
       "now": "Vandaag",
       "next": "Hierna",
-      "later": "Later"
-    },
-    "closing": "Wat daarna komt, onderzoeken we nog."
+      "later": "Later",
+      "future": "Verder vooruit"
+    }
   },
   "founder": {
     "title": "Waarom ik dit heb gemaakt",
     "paragraphs": [
       "Ik verhuisde plotseling naar een nieuw land. Ik had geen idee van het Nederlands. Om me heen waren tientallen mensen haastig Nederlands aan het leren, en iedereen vroeg elkaar om advies.",
       "Ik begon met andere vragen: wat betekent het om een taal te leren? Hoe gebeurt dat in de hersenen? Wat speelt daarbij een rol? Hoe hebben mensen die talen leerden die heel anders zijn dan hun moedertaal dat gedaan? Terwijl ik las en mijn omgeving en mezelf observeerde, ontwikkelde ik mijn eigen methodes, en ik zag dit: het is minstens een weg van vele jaren, zonder meetbare finish.",
-      "Ik wilde geen kinderboeken lezen of tekenfilms kijken. Ik wilde mezelf in een andere taal opbouwen. De onderwerpen waar ik van houd en het werk dat ik doe in mijn eigen taal moest ik ook in die taal opbouwen. Zo kon ik de taal, nieuwe dingen en de cultuur van de samenleving tegelijk leren.",
-      "In plaats van dit snel te willen doen en mezelf stress te bezorgen, besloot ik een systeem te bouwen zodra ik de structuur van de taal tot een bepaald niveau kende. Mijn doel was wat ik leerde op de lange termijn tot reflexen te maken, op een effectieve en houdbare manier. Toen ik geen app vond die me daarbij kon helpen, maakte ik die zelf. Vandaag gebruik ik haar, en ik hoop dat ze ook mensen met hetzelfde doel helpt."
+      "Ik wilde geen kinderboeken lezen of tekenfilms kijken. Ik wilde mezelf, de onderwerpen waar ik van houd en het werk dat ik doe ook in deze nieuwe taal opbouwen. Zo kon ik tegelijk de taal en de cultuur van de samenleving waarin ik woon leren.",
+      "In plaats van dit snel te willen doen en mezelf stress te bezorgen, besloot ik mijn eigen systeem te bouwen zodra ik de structuur van de taal tot een bepaald niveau kende. Mijn doel was om wat ik leerde op de lange termijn tot reflexen te maken. Toen ik geen app vond die me daarbij kon helpen, maakte ik die zelf. Vandaag gebruik ik haar, en ik hoop dat ze ook mensen met hetzelfde doel helpt."
     ]
   },
   "contact": {
-    "title": "Heb je een idee? Ik hoor het graag.",
-    "text": "LinguLab is nog niet openbaar. Heb je een opmerking, een suggestie of wil je iets bijdragen, dan kun je me schrijven."
+    "title": "Heb je een opmerking? Ik hoor het graag.",
+    "text": "Schrijf me je gedachten over de aanpak, je suggesties, of laat weten dat je wilt meedoen aan de gesloten test."
   }
 }

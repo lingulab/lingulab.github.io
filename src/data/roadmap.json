@@ -2,9 +2,9 @@
   {
     "id": "macos-first-release",
     "title": {
-      "tr": "macOS'ta ilk çalışan sürüm. Kişisel kullanımda ve kullandıkça her gün gelişiyor.",
-      "en": "First working version on macOS. In personal use, and it improves every day as it gets used.",
-      "nl": "Eerste werkende versie op macOS. In persoonlijk gebruik, en ze wordt elke dag beter door het gebruik."
+      "tr": "macOS'ta çalışan ilk sürüm. Türkçe, Hollandaca ve İngilizce dil çiftleriyle günlük kişisel kullanımda test ediliyor ve her gün gelişiyor.",
+      "nl": "Eerste werkende versie op macOS. Dagelijks in persoonlijk gebruik met Turks, Nederlands en Engels als taalcombinaties, en ze wordt elke dag beter.",
+      "en": "First working version on macOS. In daily personal use with Turkish, Dutch and English language pairs, and it improves every day."
     },
     "status": "now",
     "order": 1
@@ -12,31 +12,31 @@
   {
     "id": "windows-and-testing",
     "title": {
-      "tr": "Windows sürümünün tamamlanması, ardından 10 farklı kişiyle test ve iyileştirmeler.",
-      "en": "Finishing the Windows version, then testing and improvements with 10 different people.",
-      "nl": "De Windows-versie afmaken, daarna testen en verbeteren met 10 verschillende mensen."
+      "tr": "Windows sürümünün tamamlanması ve farklı kişilerle kapalı test sürecinin başlaması. Gerçek kullanım geri bildirimleriyle sistemin iyileştirilmesi.",
+      "nl": "De Windows-versie afmaken en een gesloten test met andere mensen starten. Het systeem verbeteren met feedback uit echt gebruik.",
+      "en": "Finishing the Windows version and starting a closed test with other people. Improving the system with feedback from real use."
     },
     "status": "next",
     "order": 2
   },
   {
-    "id": "language-priorities",
+    "id": "accounts-and-languages",
     "title": {
-      "tr": "Dil öncelikleri: Türkçe, Hollandaca ve İngilizce çiftleri.",
-      "en": "Language priorities: Turkish, Dutch and English pairs.",
-      "nl": "Taalprioriteiten: combinaties van Turks, Nederlands en Engels."
+      "tr": "Çoklu kullanıcı için hesap ve giriş altyapısının kurulması. Sözlük, ses ve metin işleme araçları destekledikçe Arapça, Ukraynaca, Fransızca, İtalyanca ve İspanyolca gibi dillerin eklenmesi.",
+      "nl": "Accounts en inloggen voor meerdere gebruikers. Talen als Arabisch, Oekraïens, Frans, Italiaans en Spaans toevoegen zodra woordenboek, audio en tekstverwerking ze ondersteunen.",
+      "en": "Accounts and sign-in for multiple users. Adding languages such as Arabic, Ukrainian, French, Italian and Spanish as dictionary, audio and text tools support them."
     },
-    "status": "next",
+    "status": "later",
     "order": 3
   },
   {
-    "id": "more-languages",
+    "id": "open-access",
     "title": {
-      "tr": "Arapça, Ukraynaca, İspanyolca, İtalyanca, Almanca, Fransızca ve diğer Avrupa dilleri.",
-      "en": "Arabic, Ukrainian, Spanish, Italian, German, French and other European languages.",
-      "nl": "Arabisch, Oekraïens, Spaans, Italiaans, Duits, Frans en andere Europese talen."
+      "tr": "Sistemin dış erişime açılması. Projenin açık kaynak olarak paylaşılması veya lisanslanması gibi sürdürülebilir modelleri şu anda değerlendiriyoruz.",
+      "nl": "Het systeem openstellen voor anderen. We bekijken nu duurzame modellen, zoals het project als open source delen of in licentie geven.",
+      "en": "Opening the system to outside users. We are currently looking at sustainable models, such as sharing the project as open source or licensing it."
     },
-    "status": "later",
+    "status": "future",
     "order": 4
   }
 ]

@@ -2,16 +2,16 @@
 import { useTranslations } from '../i18n';
 const { lang } = Astro.props;
 const t = useTranslations(lang);
-const items: { name: string; text: string; status: string }[] = t('apps.items');
+const items: { name: string; text: string }[] = t('apps.items');
 ---
 <section class="section" id="uygulamalar">
   <h2>{t('apps.title')}</h2>
+  <p class="apps-intro">{t('apps.intro')}</p>
   <div class="apps">
     {items.map((app, i) => (
       <button type="button" class:list={['app', `p${i + 1}`]} data-app>
         <span class="name">{app.name}</span>
         <span class="desc">{app.text}</span>
-        <span class="status"><b>{t('apps.statusLabel')}</b> {app.status}</span>
       </button>
     ))}
   </div>

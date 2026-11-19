@@ -39,16 +39,19 @@
   "problem": {
     "title": "You don't learn a language in three weeks.",
     "paragraphs": [
-      "It doesn't end when you pass an exam or finish a course. It takes years of keeping at it, and some days it feels endless. That is why so many people give up along the way: they never find the right system, or they find one and can't keep it up.",
-      "Most apps tie you to their content, their level and their pace. The same sentences, topics that have nothing to do with you. It starts to feel like a second job next to your life. And it can keep you away from the culture and the real world of the language you are trying to learn.",
-      "Then there are the dozens of words and phrases you run into in books, series and online. Writing them down and going back to them takes a lot of effort. In the rush of a normal day, most of them are simply lost."
+      "It doesn't end when you pass an exam or finish a course and get the certificate. It takes years of keeping at it, and some days it feels endless. That is why so many people give up halfway. What I have seen in many people around me is this: they can't set up the right system, or they set one up and can't keep it going.",
+      "The reasons differ from person to person and from one learning path to another, but one pattern stood out to me:",
+      "Most apps tie you to their content, their idea of your level and their pace: the same sentences, topics that have nothing to do with you. In the flow of daily life it starts to feel like an extra job. On top of that, it can keep you away from the culture and the real world of the language you are learning. None of this seems to help people stick with a language programme.",
+      "So is it impossible to build a learning chain that is both sustainable and whole? Or what if there were tools that made it easier and gave us more flexibility?"
     ]
   },
   "solution": {
     "title": "Learning a language is not a straight line. It happens in cycles.",
     "intro": [
-      "Each ring is a cycle. Each cycle starts at the same point: first you understand, then you produce. As you produce, you notice more, and the next cycle gets wider.",
-      "As the rings grow, you understand more and you produce more. And with each cycle, production takes up a little more of the ring."
+      "Each ring is a new cycle. At the start, most of your energy goes into understanding, and production takes only a small share. But as you keep going, what you can understand and what you can produce both grow, and with each ring production takes up a little more of it.",
+      "The speed and shape of this cycle are different for everyone. Learning a new language in your own country is not the same as learning it while you live where it is spoken, and your goals and motivation shape the process too. Still, the basic logic stays the same: language acquisition doesn't move in a straight line. As the cycle grows over weeks and months, you start to understand more complex things and express yourself more easily, often without noticing.",
+      "Seeing the process as a straight race can wear you out and take away your enthusiasm. Accepting that it moves in cycles, aiming for one step further each time, and tying your goal to what you really want to do in your daily or working life makes the road far more enjoyable.",
+      "Of course, how we run the process decides whether this build-up keeps going. Willpower alone can't carry a cycle that spans years. We need realistic, sustainable tools that fit the flow of life and don't pull us away from our interests and the things we want to do."
     ],
     "ringsAria": "Four nested rings. Each ring starts at the same point. Moving outward the rings grow, understanding and production both increase, and the share of production widens.",
     "cycles": [
@@ -59,16 +62,14 @@
     ],
     "legendIn": "Understanding",
     "legendOut": "Production",
-    "caption": "A conceptual diagram, not measured data. Proportions and cycle length differ from person to person.",
-    "content": "Content you care about in your target language feeds this cycle. Reading a book you already know from your own language, or following a series in its original language, gives you a story to hold on to while you work out the language.",
-    "collecting": "The phrases, words and sentences you meet along the way are collected from every source into one place. You come back to them at set intervals and recall them. The aim is that the next time you meet a similar sentence, you understand it better."
+    "caption": "A conceptual diagram, not measured data. Proportions and cycle length differ from person to person."
   },
   "audience": {
-    "title": "Not for people who expect to learn a language from the sofa.",
+    "title": "The point is not to find a magic method. It is to build a system you can keep up.",
     "paragraphs": [
-      "LinguLab was made for people who really want to learn and are ready to put in the work.",
-      "We don't believe in projects that sell easy or fast methods. Those claims are very hard to measure and they vary from person to person. Our starting point is simplicity. We are trying to build a toolkit that is flexible and sustainable, offers wide possibilities, and makes language acquisition possible within the flow of life.",
-      "Maybe you haven't found the right method yet. Maybe you have started and stopped a few times. That is completely normal. If you accept how long the road is and you are ready to build your own system, you can carry on from here."
+      "Learning a language is more than learning grammar rules. The structure of a language is limited; you can grasp its logic within a certain time. What really takes time is seeing how those rules show up in real life and in different contexts, often in completely different forms, and absorbing that over time.",
+      "On a road this long, methods that promise miracles in a short time don't work, and everyone's pace and process are different anyway. What moves you forward is the time you give the language, noticing the expressions you come across, and keeping track of what you learn. That is exactly what often gets missed: having a system you can keep up.",
+      "LinguLab grew out of that need. Instead of big promises, it has a down-to-earth goal: a flexible toolkit that helps you build your own study rhythm without upsetting your daily routine."
     ]
   },
   "journey": {
@@ -77,23 +78,23 @@
     "steps": [
       {
         "title": "Capture",
-        "text": "Wherever you meet a new phrase, you save it in one move."
+        "text": "You save the phrases and sentences you come across in digital content without breaking your flow. Videos and podcasts, WhatsApp messages, translations on your phone, an article that catches your eye online, notes you take while reading an e-book: wherever it comes from, you add it to your system in one move."
       },
       {
         "title": "Understand",
-        "text": "You work with it in its sentence, with its sound and context. That is what LinguMediaLab, LinguBookLab and LinguScraper are for."
+        "text": "You don't just memorise the words and phrases you saved, you really understand them. With practical AI explanations you look at the meaning both in your own language and in the target language, and you work with each one in its sentence, with its sound and context. That is what LinguMediaLab, LinguBookLab and LinguScraper are for."
       },
       {
         "title": "Collect",
-        "text": "Wherever it came from, it ends up in one place in LinguSync, which helps you see the bigger picture."
+        "text": "Everything you capture from different sources comes together in one place in LinguSync and is archived in an orderly way. Phrases you save in LinguMediaLab and LinguBookLab also stay at hand in the word cards of those apps."
       },
       {
         "title": "Repeat",
-        "text": "You review with spaced repetition: in one place with LinguFlow on phone or web, or with the cards inside each app."
+        "text": "Before you start a new episode of a series or podcast, you can warm up by reviewing the words you saved from earlier episodes. When you are out, or have a spare moment during the day, you practise the words and sentences you have learned with the LinguFlow phone app."
       },
       {
         "title": "See",
-        "text": "You see what you have collected and what has stuck in the apps, on your phone and in regular email reports."
+        "text": "You follow your progress in concrete terms. How many new words and phrases you have met and what has stuck: you see the bigger picture on the web, on your phone and in regular reports."
       }
     ],
     "captures": [
@@ -130,10 +131,11 @@
   },
   "material": {
     "title": "Anything can be study material.",
-    "text": "Series, films, documentaries, podcasts, books. Your work documents, your chats, an article you read online. You work with whatever interests you in your target language. You don't have to start with children's books. Your interests are already your curriculum.",
-    "note": "When you capture chats and screenshots, the content is sent to the AI service you choose. You decide what you capture.",
-    "startTitle": "Everyone starts from a different place.",
-    "startText": "Your native language, your life, your goal and your interests shape your road. How a person perceives a new language is still a complex, debated field in science. What is in your hands is determination and consistency. LinguLab wants to be the lab where you find your own way by trying."
+    "note": "When you capture chats and screenshots, the content goes only to the AI service you choose. You decide what you capture.",
+    "paragraphs": [
+      "Series, films, documentaries, podcasts, books, your work documents, your chats, an article you read online. You work with whatever interests you in your target language.",
+      "You don't have to stay with artificial material made only for language learning. When you move forward with real content from your daily life, without leaving your own world behind, the process becomes far more natural, enjoyable and motivating. Your interests are already your curriculum."
+    ]
   },
   "science": {
     "title": "We built it by looking at the evidence.",
@@ -248,57 +250,52 @@
   },
   "apps": {
     "title": "One system, five pieces.",
-    "statusLabel": "Status:",
     "notice": "This page is under construction.",
     "close": "Close",
     "items": [
       {
         "name": "LinguMediaLab",
-        "text": "Turns video and audio into subtitled study material. Shadowing, role-play and word cards live here.",
-        "status": "Works on macOS. Windows in progress."
+        "text": "Turn video and audio into subtitled study material. Shadowing, role-play and word cards in context help you hold on to what you hear."
       },
       {
         "name": "LinguBookLab",
-        "text": "EPUB and PDF reader. Offline dictionary, AI explanations, read-aloud and word cards.",
-        "status": "macOS and Windows. Not released yet."
+        "text": "Turn EPUB and PDF books into an interactive reading space. An offline dictionary, AI explanations and read-aloud in one place."
       },
       {
         "name": "LinguScraper",
-        "text": "Turns text you select on your computer into a note and a word with one shortcut. It also handles phone screenshots.",
-        "status": "In daily use on macOS. Windows in progress."
+        "text": "Turn any text you select on your computer into a note and a word with one shortcut. Screenshots from your phone are processed automatically too."
       },
       {
         "name": "LinguSync",
-        "text": "Collects words and notes from all the apps in one place, and produces Obsidian notes and regular reports.",
-        "status": "Runs in the founder's own setup. Not public."
+        "text": "Bring all the words and notes from different sources together in one hub. It shows you the bigger picture and produces Obsidian notes and regular progress reports."
       },
       {
         "name": "LinguFlow",
-        "text": "Everything you collected, on your phone. Review cards, word lists, report history.",
-        "status": "Runs in the founder's own setup. Not public."
+        "text": "Carry everything that builds up in LinguSync in your pocket. Spaced repetition cards, word lists and your learning history, at hand any time of day."
       }
-    ]
+    ],
+    "intro": "Each piece focuses on one job but never stands alone: the tools at the top capture phrases from different sources, and the hub below brings everything together and turns it into daily practice."
   },
   "roadmap": {
     "title": "Where we are, and where we are going",
     "status": {
       "now": "Today",
       "next": "Next",
-      "later": "Later"
-    },
-    "closing": "We are still exploring what comes after that."
+      "later": "Later",
+      "future": "Further ahead"
+    }
   },
   "founder": {
     "title": "Why I built it",
     "paragraphs": [
       "I suddenly moved to a new country. I had no idea about Dutch. Around me, dozens of people were studying Dutch in a hurry, and everyone was taking advice from everyone else.",
       "I started with different questions: What does it mean to learn a language? How does it happen in the brain? What affects it? How did people who learned languages very different from their own manage it? As I read and watched the people around me and myself, I developed my own methods, and I saw this: it is a road of many years at the very least, with no measurable finish line.",
-      "I didn't want to read children's books or watch cartoons. I wanted to build my own self in another language. The topics I love and the work I do in my own language had to be built in that language too. That way I could learn the language, new things and the culture of the society all at once.",
-      "Instead of trying to do this quickly and stressing myself out, I decided to build a system once I had learned the structure of the language to a certain level. My aim was to turn what I learned into reflexes over the long term, in a way that was effective and sustainable. When I couldn't find an app to help me, I made it myself. I use it today, and I hope it helps others who share the same aim."
+      "I didn't want to read children's books or watch cartoons. I wanted to build myself, the topics I love and the work I do inside this new language too. That way I could learn the language and the culture of the society I live in at the same time.",
+      "Instead of trying to do this quickly and stressing myself out, I decided to build my own system once I had learned the structure of the language to a certain level. My aim was to turn what I learned into reflexes over the long term. When I couldn't find an app to help me, I made it myself. I use it today, and I hope it helps others who share the same aim."
     ]
   },
   "contact": {
-    "title": "If you have a thought, I'd like to hear it.",
-    "text": "LinguLab is not public yet. If you have a comment, a suggestion or something to contribute, you can write to me."
+    "title": "If you have a comment, I'd like to hear it.",
+    "text": "Write to me with your thoughts on the approach, your suggestions, or if you'd like to join the closed test."
   }
 }

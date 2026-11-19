@@ -148,6 +148,7 @@ dialog.notice p{margin:0 0 20px;font-size:1.2rem}
 .founder blockquote p:last-child{margin:0}
 .founder blockquote::before{content:"“";display:block;height:.5em;margin-bottom:.12em;font-size:clamp(5rem,8vw,7rem);line-height:1;color:var(--lime);font-weight:700}
 .founder blockquote p:last-child::after{content:"”";color:var(--lime);font-weight:700;margin-left:.08em}
+.apps-intro{color:var(--mute);max-width:44rem;margin:14px 0 0}
 .rm-note{color:var(--mute);margin:24px 0 0}
 
 .mail{display:inline-flex;align-items:center;min-height:44px;margin-top:8px;color:var(--lime);font-weight:500}
