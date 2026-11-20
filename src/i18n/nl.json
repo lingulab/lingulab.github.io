@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LinguLab, bouw jezelf op in een andere taal",
-    "description": "LinguLab is een taallab voor mensen die een taal willen verwerven met jarenlange, echte inzet. Wat je kijkt, leest, hoort en op je scherm tegenkomt, wordt studiemateriaal."
+    "description": "LinguLab is geen app of methode die belooft je een taal te leren. Heb je eenmaal een bepaald niveau bereikt, dan is het een persoonlijke gereedschapskist waarmee je in de drukte van alledag het meeste haalt uit wat je in die taal kijkt, leest en hoort, en er dieper in duikt. Alles wat je kijkt, leest, hoort en op je scherm tegenkomt, wordt je eigen studiemateriaal."
   },
   "nav": {
     "label": "Hoofdnavigatie",
@@ -14,7 +14,7 @@
   "hero": {
     "titleBefore": "Bouw jezelf op in",
     "titleEm": "een andere taal.",
-    "lead": "LinguLab is een taallab voor mensen die een taal willen verwerven met jarenlange, echte inzet. Wat je kijkt, leest, hoort en op je scherm tegenkomt, wordt studiemateriaal."
+    "lead": "LinguLab is geen app of methode die belooft je een taal te leren. Heb je eenmaal een bepaald niveau bereikt, dan is het een persoonlijke gereedschapskist waarmee je in de drukte van alledag het meeste haalt uit wat je in die taal kijkt, leest en hoort, en er dieper in duikt. Alles wat je kijkt, leest, hoort en op je scherm tegenkomt, wordt je eigen studiemateriaal."
   },
   "diagram": {
     "aria": "Systeemschema: series, films, podcasts, boeken, webpagina's, documenten en schermafbeeldingen van je telefoon komen in LinguMediaLab, LinguBookLab en LinguScraper, vloeien samen in LinguSync en bereiken LinguFlow, Obsidian-notities en rapporten per e-mail.",
@@ -67,7 +67,7 @@
   "audience": {
     "title": "Het gaat niet om een wondermethode, maar om een systeem dat je volhoudt.",
     "paragraphs": [
-      "Een taal leren is meer dan grammaticaregels leren. De structuur van een taal is beperkt; de logica ervan kun je binnen een bepaalde tijd begrijpen. Wat echt tijd kost, is zien hoe die regels in het echte leven en in verschillende contexten in heel andere vormen opduiken, en dat met de tijd laten bezinken.",
+      "LinguLab wil je geen taal vanaf nul leren. De basisstructuur en de regels van een taal leer je tot op zekere hoogte toch wel; het echte werk begint na die drempel: de taal uit het lesboek halen, haar in je eigen leven verweven en erop voortbouwen. Grammaticaregels zijn beperkt, maar zien hoe ze in het echte leven en in verschillende contexten tot leven komen, en dat laten bezinken, duurt jaren.",
       "Op zo'n lange weg werken methodes die op korte termijn wonderen beloven niet, en ieders tempo en proces is toch al anders. Wat je vooruithelpt, is de tijd die je aan de taal besteedt, de uitdrukkingen die je opmerkt en het bijhouden van wat je leert. Precies dat wordt vaak over het hoofd gezien: een systeem hebben dat je kunt volhouden.",
       "LinguLab is uit die behoefte ontstaan. In plaats van grote beloftes heeft het een nuchter doel: een flexibele gereedschapskist waarmee je je eigen studieritme opbouwt zonder je dagelijkse routine overhoop te gooien."
     ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LinguLab, kendini başka bir dilin içinde inşa et",
-    "description": "LinguLab, bir dili yıllara yayılan bir çabayla edinmek isteyenler için kurulmuş bir dil laboratuvarı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey çalışma malzemesine dönüşür."
+    "description": "LinguLab, dil öğretmeyi vadeden bir uygulama ya da yöntem değil. Belirli bir seviyeye geldikten sonra, öğrendiğin dilde günlük hayatın akışı ve koşturmacası içinde tükettiğin içeriklerden en çok faydayı çıkarmanı ve derinleşmeni sağlayan kişisel bir araç takımı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey kendi çalışma malzemene dönüşür."
   },
   "nav": {
     "label": "Ana gezinme",
@@ -14,7 +14,7 @@
   "hero": {
     "titleBefore": "Kendini başka bir dilin içinde",
     "titleEm": "inşa et.",
-    "lead": "LinguLab, bir dili yıllara yayılan bir çabayla edinmek isteyenler için kurulmuş bir dil laboratuvarı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey çalışma malzemesine dönüşür."
+    "lead": "LinguLab, dil öğretmeyi vadeden bir uygulama ya da yöntem değil. Belirli bir seviyeye geldikten sonra, öğrendiğin dilde günlük hayatın akışı ve koşturmacası içinde tükettiğin içeriklerden en çok faydayı çıkarmanı ve derinleşmeni sağlayan kişisel bir araç takımı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey kendi çalışma malzemene dönüşür."
   },
   "diagram": {
     "aria": "Sistem şeması: Dizi, film, podcast, kitap, web sayfaları, belgeler ve telefon ekran görüntüleri LinguMediaLab, LinguBookLab ve LinguScraper'a girer, LinguSync'te birleşir, LinguFlow, Obsidian notları ve e-posta raporlarına ulaşır.",
@@ -67,7 +67,7 @@
   "audience": {
     "title": "Mesele sihirli bir yöntem bulmak değil, sürdürülebilir bir sistem kurmak.",
     "paragraphs": [
-      "Dil öğrenmek yalnızca gramer kurallarını öğrenmekten ibaret değil. Dilin yapısı sınırlıdır; mantığını belli bir sürede kavrayabilirsin. Asıl zaman alan şey, o kuralların gerçek hayatta ve farklı bağlamlarda nasıl bambaşka şekillerde karşımıza çıktığını görmek, bunları zamanla sindirmek.",
+      "LinguLab sıfırdan dil öğretmeyi hedeflemiyor. Dilin temel yapısını ve kurallarını zaten belirli bir noktaya kadar öğrenebilirsin; asıl mesele o eşikten sonra başlıyor: Dili ders kitaplarından çıkarıp kendi hayatına entegre etmek ve üzerine koyarak ilerlemek. Çünkü gramer kuralları sınırlıdır ama o kuralların gerçek hayatta ve farklı bağlamlarda nasıl hayat bulduğunu görmek, bunları sindirmek yıllara yayılır.",
       "Bu uzun yolculukta kısa sürede mucize vadeden yöntemler işe yaramıyor; zaten herkesin öğrenme hızı ve süreci bambaşka. İlerlemeyi sağlayan asıl unsur ise dile ayırdığın zaman, karşılaştığın ifadeleri fark edebilmek ve öğrendiklerini düzenli takip etmek. Çoğu zaman gözden kaçan nokta da tam olarak bu: sürdürülebilir bir sisteme sahip olmak.",
       "LinguLab tam olarak bu ihtiyaçtan doğdu. Abartılı vaatler yerine ayağı yere basan bir hedefi var: Günlük düzenini bozmadan kendi çalışma ritmini kurmanı sağlayan esnek bir araç takımı sunmak."
     ]

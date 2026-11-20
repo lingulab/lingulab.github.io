@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LinguLab, build yourself in another language",
-    "description": "LinguLab is a language lab for people who want to acquire a language through years of real effort. What you watch, read, hear and meet on screen becomes study material."
+    "description": "LinguLab is not an app or a method that promises to teach you a language. Once you have reached a certain level, it is a personal toolkit that helps you get the most out of the content you consume in that language in the flow and rush of daily life, and go deeper. What you watch, read, hear and meet on screen becomes your own study material."
   },
   "nav": {
     "label": "Main navigation",
@@ -14,7 +14,7 @@
   "hero": {
     "titleBefore": "Build yourself in",
     "titleEm": "another language.",
-    "lead": "LinguLab is a language lab for people who want to acquire a language through years of real effort. What you watch, read, hear and meet on screen becomes study material."
+    "lead": "LinguLab is not an app or a method that promises to teach you a language. Once you have reached a certain level, it is a personal toolkit that helps you get the most out of the content you consume in that language in the flow and rush of daily life, and go deeper. What you watch, read, hear and meet on screen becomes your own study material."
   },
   "diagram": {
     "aria": "System diagram: series, films, podcasts, books, web pages, documents and phone screenshots enter LinguMediaLab, LinguBookLab and LinguScraper, come together in LinguSync, and reach LinguFlow, Obsidian notes and email reports.",
@@ -67,7 +67,7 @@
   "audience": {
     "title": "The point is not to find a magic method. It is to build a system you can keep up.",
     "paragraphs": [
-      "Learning a language is more than learning grammar rules. The structure of a language is limited; you can grasp its logic within a certain time. What really takes time is seeing how those rules show up in real life and in different contexts, often in completely different forms, and absorbing that over time.",
+      "LinguLab doesn't aim to teach a language from scratch. You can learn the basic structure and rules of a language up to a certain point anyway; the real work starts after that threshold: taking the language out of the textbook, weaving it into your own life and building on it. Grammar rules are limited, but seeing how they come to life in real situations and different contexts, and absorbing that, takes years.",
       "On a road this long, methods that promise miracles in a short time don't work, and everyone's pace and process are different anyway. What moves you forward is the time you give the language, noticing the expressions you come across, and keeping track of what you learn. That is exactly what often gets missed: having a system you can keep up.",
       "LinguLab grew out of that need. Instead of big promises, it has a down-to-earth goal: a flexible toolkit that helps you build your own study rhythm without upsetting your daily routine."
     ]
