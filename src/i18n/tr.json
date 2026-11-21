@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "LinguLab, kendini başka bir dilin içinde inşa et",
-    "description": "LinguLab, dil öğretmeyi vadeden bir uygulama ya da yöntem değil. Belirli bir seviyeye geldikten sonra, öğrendiğin dilde günlük hayatın akışı ve koşturmacası içinde tükettiğin içeriklerden en çok faydayı çıkarmanı ve derinleşmeni sağlayan kişisel bir araç takımı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey kendi çalışma malzemene dönüşür."
+    "description": "LinguLab, dil öğretmeyi vadeden bir uygulama ya da yöntem değil. Belirli bir seviyeye geldikten sonra, öğrendiğin dilde günlük hayatın akışı ve koşturmacası içinde tükettiğin içeriklerden en fazla faydayı çıkarmanı ve derinleşmeni sağlayan kişisel bir araç takımı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey kendi çalışma malzemene dönüşür."
   },
   "nav": {
     "label": "Ana gezinme",
@@ -14,7 +14,7 @@
   "hero": {
     "titleBefore": "Kendini başka bir dilin içinde",
     "titleEm": "inşa et.",
-    "lead": "LinguLab, dil öğretmeyi vadeden bir uygulama ya da yöntem değil. Belirli bir seviyeye geldikten sonra, öğrendiğin dilde günlük hayatın akışı ve koşturmacası içinde tükettiğin içeriklerden en çok faydayı çıkarmanı ve derinleşmeni sağlayan kişisel bir araç takımı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey kendi çalışma malzemene dönüşür."
+    "lead": "LinguLab, dil öğretmeyi vadeden bir uygulama ya da yöntem değil. Belirli bir seviyeye geldikten sonra, öğrendiğin dilde günlük hayatın akışı ve koşturmacası içinde tükettiğin içeriklerden en fazla faydayı çıkarmanı ve derinleşmeni sağlayan kişisel bir araç takımı. İzlediğin, okuduğun, dinlediğin ve ekranda karşılaştığın her şey kendi çalışma malzemene dönüşür."
   },
   "diagram": {
     "aria": "Sistem şeması: Dizi, film, podcast, kitap, web sayfaları, belgeler ve telefon ekran görüntüleri LinguMediaLab, LinguBookLab ve LinguScraper'a girer, LinguSync'te birleşir, LinguFlow, Obsidian notları ve e-posta raporlarına ulaşır.",
